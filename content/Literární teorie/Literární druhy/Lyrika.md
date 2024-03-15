@@ -26,7 +26,7 @@
 - **Umělecký výraz**: Poskytuje prostor pro tvůrčí výraz a inovaci v literatuře.
 
 ## Příklady básní
-- **"Óda na radost"** od Friedricha Schillera.
+- **"[Óda](Óda.md) na radost"** od Friedricha Schillera.
 - **"The Road Not Taken"** od Roberta Frosta.
 - **"If"** od Rudyarda Kiplinga.
 

@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"3b3b94e660ec2cb2","x":-640,"y":-300,"width":540,"height":560,"type":"file","file":"README.md"},
-		{"id":"742b701c7c7a5c03","x":-40,"y":-300,"width":400,"height":460,"type":"file","file":"Literární historie/02 Středověk.md"},
-		{"id":"656c309b2644f89c","x":400,"y":-300,"width":400,"height":400,"type":"file","file":"Autoři/Alexandr I. Solženicyn.md"}
-	],
-	"edges":[]
-}

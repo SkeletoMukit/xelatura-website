@@ -1,3 +1,7 @@
+---
+title: Xelatura
+---
+
 # Vítejte v Xelatuře
 
 Xelovy poznámky z literatury
