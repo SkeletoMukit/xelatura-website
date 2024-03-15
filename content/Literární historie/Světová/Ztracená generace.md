@@ -1,2 +1,0 @@
-# Ztracená generace
- 
