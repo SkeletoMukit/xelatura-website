@@ -1,6 +1,5 @@
----
-title: Vítejte v Xelatuře
----
+# Vítejte v Xelatuře
+
 Xelovy poznámky z literatury
 
 ## !!! Stále ve vývoji !!!
