@@ -1,5 +1,7 @@
 # William Shakespeare
+
 ## Základní informace
+
 - **Jméno:** William Shakespeare
 - **Datum narození:** 26. dubna 1564
 - **Místo narození:** Stratford-upon-Avon, Anglie
@@ -11,6 +13,7 @@
 - **Žánr:** [[Tragédie]], komedie, historické drama, román, sonet
 
 ## Život
+
 - William Shakespeare se narodil v Stratford-upon-Avon v Anglii a byl jedním z osmi dětí. Jeho otec, John Shakespeare, byl úspěšným rukavičkářem a politikem v místní samosprávě.
 - O jeho raném životě není mnoho známo, ale předpokládá se, že navštěvoval místní školu.
 - V roce 1582 se oženil s Anne Hathawayovou, se kterou měl tři děti: Susannu a dvojčata Hamneta a Judith.
@@ -19,23 +22,35 @@
 - Po úspěšné kariéře v Londýně se Shakespeare vrátil do Stratfordu, kde strávil zbytek svého života. Zemřel v roce 1616 ve věku 52 let.
 
 ## Dílo
+
 ### Hamlet
+
 - [[Tragédie]] o dvojnásobném zradě a pomstě, považovaná za jedno z jeho nejlepších děl.
 
 ### [[Romeo a Julie]]
+
 - Klasická tragédie o zakázané lásce dvou mladých milenců z nepřátelských rodin.
 
 ### Macbeth
+
 - [[Tragédie]] o vzestupu a pádu skotského generála Macbetha, který se stává tyranským králem.
 
 ### Othello
+
 - [[Tragédie]] o žárlivosti a intrikách, odehrávající se v exotickém prostředí Benátek.
 
 ### Král Lear
+
 - [[Tragédie]] o starém králi, jehož rozhodnutí vedou k tragickým následkům.
 
 ### Sonety
+
 - Soubor 154 sonetů, které se pohybují od témat lásky až po filozofické úvahy.
 
 ### Mnoho zlosti pro nic
-- Komická hra o zmatcích lásky a omylůch, zahrnující složité intriky a záměny totožnosti.
+
+- Komická hra o zmatcích lásky a omylech, zahrnující složité intriky a záměny totožnosti.
+
+### Zkrocení zlé ženy
+
+### Jindřich III.

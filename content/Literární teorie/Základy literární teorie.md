@@ -21,13 +21,13 @@ Umělecký text obvykle dělíme na:
 
 • prózu
 • poezii
-• drama
+• [Drama](Drama.md)
 
-**PRÓZA** je jazykový projev, který je psaný ve větách. Prozaický text je dělen na věty, odstavce, kapitoly, díly, knihy a popřípadě cykly (příběh, povídka, novela, román…). Dalším charakteristickým znakem prózy je tíhnutí k vyprávění a k zachycování skutečnosti. Uměleckou prózu nazýváme také beletrie. Autora prozaického textu (spisovatele) nazýváme prozaik.
+**[Próza](Próza.md)** je jazykový projev, který je psaný ve větách. Prozaický text je dělen na věty, odstavce, kapitoly, díly, knihy a popřípadě cykly (příběh, [Povídka](Povídka.md), [Novela](Novela.md), [Román](Román.md)…). Dalším charakteristickým znakem prózy je tíhnutí k vyprávění a k zachycování skutečnosti. Uměleckou prózu nazýváme také beletrie. Autora prozaického textu (spisovatele) nazýváme prozaik.
 
-**POEZIE** (básnictví) je jazykový projev psaný veršem. Tedy textem, která je jednak zvukově, jednak rytmicky či melodicky organizovaný. Básnický text tvoří tyto jednotky: stopa, verš, strofa (sloka), báseň, básnická sbírka (sonet, balada, romance, básnická povídka, epos aj.). Pro básnický text je typická citovost, subjektivní prožitek a originalita vidění okolního světa. Autora básnického textu nazýváme básník nebo poeta.
+**[Poezie](Poezie.md)** (básnictví) je jazykový projev psaný veršem. Tedy textem, která je jednak zvukově, jednak rytmicky či melodicky organizovaný. Básnický text tvoří tyto jednotky: stopa, verš, strofa (sloka), báseň, básnická sbírka ([Sonet](Sonet.md), [Balada](Balada.md), [Romance](Romance.md), básnická [Povídka](Povídka.md), [Epos](Epos.md) aj.). Pro básnický text je typická citovost, subjektivní prožitek a originalita vidění okolního světa. Autora básnického textu nazýváme básník nebo poeta.
 
-**DRAMA** (divadelní hra) je určeno pro jevištní předvádění v divadlech, kdy děj bývá předváděn herci, prostředí bývá naznačeno výstavbou scény (v podobě kulis) a výpravou. Text dramatu (divadelní hry) obsahuje pojmenování postavy a repliku, tedy část textu, kterou postava reprodukuje (říká). Jednotkami dramatického textu jsou: monolog, dialog; replika, výstup, obraz, jednání (dějství). Autora dramatického textu nazýváme dramatik.
+**[Drama](Drama.md)** (divadelní hra) je určeno pro jevištní předvádění v divadlech, kdy děj bývá předváděn herci, prostředí bývá naznačeno výstavbou scény (v podobě kulis) a výpravou. Text dramatu (divadelní hry) obsahuje pojmenování postavy a repliku, tedy část textu, kterou postava reprodukuje (říká). Jednotkami dramatického textu jsou: monolog, dialog; replika, výstup, obraz, jednání (dějství). Autora dramatického textu nazýváme dramatik.
 ## Literární druhy a žánry
 
 ### Literární druhy
@@ -36,13 +36,13 @@ Umělecká literatura má tři typy zobrazení, které nazýváme literární dr
 
 • epiku
 • lyriku
-• drama
+• [Drama](Drama.md)
 
-**EPIKA** zahrnuje umělecké texty založené na vyprávění děje.
+**[Epika](Epika.md)** zahrnuje umělecké texty založené na vyprávění děje.
 
-**LYRIKA** zahrnuje umělecké texty s nedějovým základem, odráží duševní stav postavy – náladu, citové rozpoložení, smyslový prožitek…
+**[Lyrika](Lyrika.md)** zahrnuje umělecké texty s nedějovým základem, odráží duševní stav postavy – náladu, citové rozpoložení, smyslový prožitek…
 
-**DRAMA** viz část „Základní dělení uměleckého textu“.
+**[Drama](Drama.md)** viz část „Základní dělení uměleckého textu“.
 ### Literární žánry
 
 **ŽÁNR** je skupina literárních děl, která má společné obsahové a formální rysy (např. počet veršů a slok, tematiku, kompoziční a stylistické postupy).
@@ -51,100 +51,100 @@ Přehled hlavních literárních žánrů:
 
 - Epické žánry
 	- příběh 
-	- bajka 
+	- [Bajka](Bajka.md) 
 	- mýtus, 
-	- pověst
-	- pohádka 
-	- povídka
-	- novela
-	- epos 
-	- román 
-	- cestopis 
+	- [Pověst](Pověst.md)
+	- [Pohádka](Pohádka.md) 
+	- [Povídka](Povídka.md)
+	- [Novela](Novela.md)
+	- [Epos](Epos.md) 
+	- [Román](Román.md) 
+	- [Cestopis](Cestopis.md) 
 	- anekdota 
-	- fantasy
+	- [Fantasy](Fantasy.md)
 	
 - Lyrickoepické žánry
-	- balada
-	- romance
-	- báje básnická povídka (poema)
+	- [Balada](Balada.md)
+	- [Romance](Romance.md)
+	- [Báje](Báje.md) básnická [Povídka](Povídka.md) (poema)
 
 - Dramatické žánry
-	- tragédie
-	- komedie
-	- činohra
-	- muzikál
+	- [Tragédie](Tragédie.md)
+	- [Komedie](Komedie.md)
+	- [Činohra](Činohra.md)
+	- [Muzikál](Muzikál.md)
 
 - Lyrické žánry
-	- píseň satira
-	- elegie/žalozpěv epigram
+	- [Píseň](Píseň.md) satira
+	- [Elegie](Elegie.md)/žalozpěv [Epigram](Epigram.md)
 	- epitaf pásmo
-	- óda sonet
+	- [Óda](Óda.md) [Sonet](Sonet.md)
 
 #### Epické žánry:
 
 **PŘÍBĚH** je nejjednodušším epickým útvarem, zdůrazňujícím dějovou složku. Děj má své vyvrcholení a překvapivé zakončení. Rozeznáváme příběh anekdotický, humorný, poučný…
 
-**BAJKA** je příběh ze života zvířat nebo zosobněných věcí, má alegorický smysl a didaktický účel.
+**[Bajka](Bajka.md)** je příběh ze života zvířat nebo zosobněných věcí, má alegorický smysl a didaktický účel.
 
-**BÁJE / MÝTUS** je jeden ze způsobů výkladu světa. Rozeznáváme tři základní mýty – o stvoření světa, člověka, o nesmrtelnosti. Jejími hrdiny jsou hlavně bohové, lidé s božskými vlastnostmi. Soustava mýtů (mytologie) byla základem náboženských soustav starých národů.
+**[Báje](Báje.md) / MÝTUS** je jeden ze způsobů výkladu světa. Rozeznáváme tři základní mýty – o stvoření světa, člověka, o nesmrtelnosti. Jejími hrdiny jsou hlavně bohové, lidé s božskými vlastnostmi. Soustava mýtů (mytologie) byla základem náboženských soustav starých národů.
 
-**POVĚST** je žánr lidové prózy často spjatý s konkrétním místem, předmětem, časem a nadpřirozenými jevy. Má jednoduchý děj i zápletku.
+**[Pověst](Pověst.md)** je žánr lidové prózy často spjatý s konkrétním místem, předmětem, časem a nadpřirozenými jevy. Má jednoduchý děj i zápletku.
 
-**POHÁDKA** je (jako pověst) původně žánrem lidové slovesnosti. Stěžejní roli zde hraje fantazie. Pohádky jsou časově a místně neurčené. Jsou zde neobyčejné světy, nadpřirozené bytosti, fantastické děje využívající magické číslo tři. Příběhy pohádek končívají většinou vítězstvím pravdy, dobra a spravedlnosti nad lží, zlem a bezprávím.
+**[Pohádka](Pohádka.md)** je (jako [Pověst](Pověst.md)) původně žánrem lidové slovesnosti. Stěžejní roli zde hraje fantazie. Pohádky jsou časově a místně neurčené. Jsou zde neobyčejné světy, nadpřirozené bytosti, fantastické děje využívající magické číslo tři. Příběhy pohádek končívají většinou vítězstvím pravdy, dobra a spravedlnosti nad lží, zlem a bezprávím.
 
-**POVÍDKA** je prozaický útvar kratšího rozsahu s jednoduchým hlavním dějem (určitá událost), epizodami, popisnými pasážemi, výjimečně s fantastickými prvky a s omezeným počtem postav.
+**[Povídka](Povídka.md)** je prozaický útvar kratšího rozsahu s jednoduchým hlavním dějem (určitá událost), epizodami, popisnými pasážemi, výjimečně s fantastickými prvky a s omezeným počtem postav.
 
-**NOVELA** epický žánr, jehož základem je poutavý příběh s výrazným zakončením (pointou), oproti povídce je v ní potlačen popis ve prospěch hlavního děje.
+**[Novela](Novela.md)** epický žánr, jehož základem je poutavý příběh s výrazným zakončením (pointou), oproti povídce je v ní potlačen popis ve prospěch hlavního děje.
 
-**EPOS** rozměrná veršovaná skladba podávající téma hrdinských činů, válek. Postihuje tematicky i mýty. Kromě děje se zde uplatňuje popis. Epos patřil k nejvýznamnějším literárním žánrům až do 18. století. Podle tematiky rozlišujeme epos hrdinský, historický, rytířský, náboženský...
+**[Epos](Epos.md)** rozměrná veršovaná skladba podávající téma hrdinských činů, válek. Postihuje tematicky i mýty. Kromě děje se zde uplatňuje popis. [Epos](Epos.md) patřil k nejvýznamnějším literárním žánrům až do 18. století. Podle tematiky rozlišujeme [Epos](Epos.md) hrdinský, historický, rytířský, náboženský...
 
-**ROMÁN** je rozsáhlý epický text psaný prózou, tematicky bohatší a kompozičně složitější s větším množstvím postav. Novodobý román má charakter syntetický - k principu epickému připojuje i princip lyrický a dramatický. Rozeznáváme román dobrodružný, historický, milostný, společenský…
+**[Román](Román.md)** je rozsáhlý epický text psaný prózou, tematicky bohatší a kompozičně složitější s větším množstvím postav. Novodobý [Román](Román.md) má charakter syntetický - k principu epickému připojuje i princip lyrický a dramatický. Rozeznáváme [Román](Román.md) dobrodružný, historický, milostný, společenský…
 
-**CESTOPIS** je prozaický literární žánr. Jeho obsahem je popis autorovy cesty do cizích zemí a krajin se záznamem jejich geografických, národopisných, kulturních, sociálních a jiných zvláštností. Cestopisy vznikaly již ve starověku a středověku (Marco Polo). V české literatuře byla nejslavnější díla vytvořena v době humanismu a renesance (Kryštof Harant z Polžic a Bezdružic, Václav Vratislav z Mitrovic), v 19. století (Emil Holub) a ve 20. století (Jiří Hanzelka a Miroslav Zikmund).
+**[Cestopis](Cestopis.md)** je prozaický literární žánr. Jeho obsahem je popis autorovy cesty do cizích zemí a krajin se záznamem jejich geografických, národopisných, kulturních, sociálních a jiných zvláštností. Cestopisy vznikaly již ve starověku a středověku (Marco Polo). V české literatuře byla nejslavnější díla vytvořena v době humanismu a renesance (Kryštof Harant z Polžic a Bezdružic, Václav Vratislav z Mitrovic), v 19. století (Emil Holub) a ve 20. století (Jiří Hanzelka a Miroslav Zikmund).
 
 **ANEKDOTA** krátké vtipné vyprávění s překvapivým zakončením.
 
-**FANTASY** je umělecký žánr založený především na užití magie či jiných nadpřirozených prvků (bájné bytosti, bohové - obzvláště z antických dob) často s vzezřením a chováním netypickým pro lidi. Svět, ve kterém se příběh odehrává, je většinou nezávislý na našem, v některých případech je s naším nějak spojený (Letopisy Narnie) či se děj odehrává přímo v našem nějak pozměněném světě (svět náš a svět kouzelníků). Výrazně se zapsala do dějin literatury a stala se jedním z pilířů žánru trilogie J.R.R. Tolkiena – Pán prstenů.
+**[Fantasy](Fantasy.md)** je umělecký žánr založený především na užití magie či jiných nadpřirozených prvků (bájné bytosti, bohové - obzvláště z antických dob) často s vzezřením a chováním netypickým pro lidi. Svět, ve kterém se příběh odehrává, je většinou nezávislý na našem, v některých případech je s naším nějak spojený (Letopisy Narnie) či se děj odehrává přímo v našem nějak pozměněném světě (svět náš a svět kouzelníků). Výrazně se zapsala do dějin literatury a stala se jedním z pilířů žánru trilogie J.R.R. Tolkiena – Pán prstenů.
 
-**LEGENDA** je epický literární žánr pojednávající o životě, smrti, umučení a zázracích určitého světce či mučedníka (sv. Václav, Ludmila, Vojtěch, Prokop, Anežka, Jan Nepomucký…), příp. ostatků nebo svatého předmětu (legenda o sv. Kříži). V legendách se vyskytují zázraky a postavy křesťanské historie. V přeneseném smyslu může být i legenda o význačné osobě.
+**[Legenda](Legenda.md)** je epický literární žánr pojednávající o životě, smrti, umučení a zázracích určitého světce či mučedníka (sv. Václav, Ludmila, Vojtěch, Prokop, Anežka, Jan Nepomucký…), příp. ostatků nebo svatého předmětu ([Legenda](Legenda.md) o sv. Kříži). V legendách se vyskytují zázraky a postavy křesťanské historie. V přeneseném smyslu může být i [Legenda](Legenda.md) o význačné osobě.
 
-**SCI – FI** (zkratka anglického science fiction) vědeckofantastický umělecký žánr vymezený výskytem spekulativních technologií a přírodních jevů anebo dosud neznámých forem života v díle. Děj sci-fi je často zasazen do vesmíru, budoucnosti či alternativní historie. Za zakladatele žánru bývají považováni Jules Verne, pokud jde o technickou sci-fi, a Herbert George Wells, který se věnoval spíše vlivu technologií na člověka.
+**SCI – FI** (zkratka anglického [Science fiction](Science%20fiction.md)) vědeckofantastický umělecký žánr vymezený výskytem spekulativních technologií a přírodních jevů anebo dosud neznámých forem života v díle. Děj sci-fi je často zasazen do vesmíru, budoucnosti či alternativní historie. Za zakladatele žánru bývají považováni Jules Verne, pokud jde o technickou sci-fi, a Herbert George Wells, který se věnoval spíše vlivu technologií na člověka.
 
 #### Lyrické žánry:
 
-**PÍSEŇ** je jedním z nejstarších lyrických žánrů. Znaky písně: jednoduché vyjádření, přesný hudební rytmus a rým, pravidelná sloka a časté využití refrénu.
+**[Píseň](Píseň.md)** je jedním z nejstarších lyrických žánrů. Znaky písně: jednoduché vyjádření, přesný hudební rytmus a rým, pravidelná sloka a časté využití refrénu.
 
-**ELEGIE / ŽALOZPĚV** je lyrický útvar smutného charakteru. Nejčastějším motivem bývá žal nad ztrátou milovaného člověka, vlasti, bolest ze zklamané lásky…
+**[Elegie](Elegie.md) / ŽALOZPĚV** je lyrický útvar smutného charakteru. Nejčastějším motivem bývá žal nad ztrátou milovaného člověka, vlasti, bolest ze zklamané lásky…
 
-**ÓDA** oslavná lyrická báseň většího rozsahu, která oslavuje např. boha, hrdinu, morální vlastnosti apod.
+**[Óda](Óda.md)** oslavná lyrická báseň většího rozsahu, která oslavuje např. boha, hrdinu, morální vlastnosti apod.
 
-**SATIRA** je báseň, próza či drama vysmívající se nedostatkům a vadám společnosti nebo člověka formou vyostřené kritičnosti a výsměchem.
+**SATIRA** je báseň, [Próza](Próza.md) či [Drama](Drama.md) vysmívající se nedostatkům a vadám společnosti nebo člověka formou vyostřené kritičnosti a výsměchem.
 
-**EPIGRAM** je drobná satirická báseň, která stručně vyjadřuje kritický úsudek o určité vlastnosti, životní zkušenosti.
+**[Epigram](Epigram.md)** je drobná satirická báseň, která stručně vyjadřuje kritický úsudek o určité vlastnosti, životní zkušenosti.
 
-**PÁSMO** je jeden ze žánrů moderní poezie, který uvědoměle využívá mnohovýznamovosti a volného přiřazování veršů. Pásmo se stalo významným žánrem poetistické surrealistické poezie ve 20. století.
+**PÁSMO** je jeden ze žánrů moderní [Poezie](Poezie.md), který uvědoměle využívá mnohovýznamovosti a volného přiřazování veršů. Pásmo se stalo významným žánrem poetistické surrealistické [Poezie](Poezie.md) ve 20. století.
 
-**SONET** lyrická báseň, jejíž hlavním tématem je láska. Má pevně stanovenou strukturu – čtyři sloky, z nichž první a druhá obsahují po 4 verších a dvě další po třech verších. Celkem má 14 veršů.
+**[Sonet](Sonet.md)** lyrická báseň, jejíž hlavním tématem je láska. Má pevně stanovenou strukturu – čtyři sloky, z nichž první a druhá obsahují po 4 verších a dvě další po třech verších. Celkem má 14 veršů.
 
 **KALIGRAM** je báseň, jejíž písmena nebo celá slova a verše jsou uspořádána typograficky do obrazce (žena, konstrukce věže apod.). Obrazec vyjadřuje i téma básně.
 
 #### Lyrickoepické žánry:
 
-**BALADA** je veršovaná lyrickoepická skladba středního rozsahu, která má za základ příběh s tragickým vyvrcholením. Ráz balady je pochmurný. Lyrické pasáže se uplatňují zejména v líčení prostředí. Děj bývá zhuštěn, soustředěn ke konfliktu.
+**[Balada](Balada.md)** je veršovaná lyrickoepická skladba středního rozsahu, která má za základ příběh s tragickým vyvrcholením. Ráz balady je pochmurný. Lyrické pasáže se uplatňují zejména v líčení prostředí. Děj bývá zhuštěn, soustředěn ke konfliktu.
 
-**ROMANCE** je lyrickoepická báseň středního rozsahu. Je určitým protikladem balady: pojetí konfliktu je v ní smírné, celková nálada jasnější.
+**[Romance](Romance.md)** je lyrickoepická báseň středního rozsahu. Je určitým protikladem balady: pojetí konfliktu je v ní smírné, celková nálada jasnější.
 
-**BÁSNICKÁ POVÍDKA (POEMA)** rozsáhlá lyricko-epická veršovaná skladba (skládá se z několika zpěvů) vyjadřující konflikt hrdiny se společností, dále popis přírodních scenérií a pocitů, dojmů a nálad, např. G. G. Byron – Child Haroldova pouť, K. H. Mácha – Máj, K. J. Erben – Záhořovo lože apod.
+**BÁSNICKÁ [Povídka](Povídka.md) (POEMA)** rozsáhlá lyricko-epická veršovaná skladba (skládá se z několika zpěvů) vyjadřující konflikt hrdiny se společností, dále popis přírodních scenérií a pocitů, dojmů a nálad, např. G. G. Byron – Child Haroldova pouť, K. H. Mácha – [Máj](Máj.md), K. J. Erben – Záhořovo lože apod.
 
 #### Dramatické žánry:
 
-**TRAGÉDIE** je nejvýznamnější dramatický žánr se smutným, tragickým zakončením. Zobrazuje postavu v boji s nepřátelskými silami, které jsou silnější než on a kterým podléhá.
+**[Tragédie](Tragédie.md)** je nejvýznamnější dramatický žánr se smutným, tragickým zakončením. Zobrazuje postavu v boji s nepřátelskými silami, které jsou silnější než on a kterým podléhá.
 
-**KOMEDIE / VESELOHRA** je charakterizována humorným pojetím. Někdy se komičnost soustřeďuje k postavám (komedie charakterní), někdy k situacím (situační).
+**[Komedie](Komedie.md) / VESELOHRA** je charakterizována humorným pojetím. Někdy se komičnost soustřeďuje k postavám ([Komedie](Komedie.md) charakterní), někdy k situacím (situační).
 
-**ČINOHRA** je novodobý dramatický útvar s charakteristickým vykreslením psychologické stránky postav. Tematicky zasahuje do nejrůznějších oblastí.
+**[Činohra](Činohra.md)** je novodobý dramatický útvar s charakteristickým vykreslením psychologické stránky postav. Tematicky zasahuje do nejrůznějších oblastí.
 
-**MUZIKÁL** je divadelní představení spojené s hudbou, zpěvem a tancem. Často ve formě hudební adaptace významných děl světové literatury. Jednotlivé obrazy jsou spojeny volně hlavní postavou nebo dějovým pásmem.
+**[Muzikál](Muzikál.md)** je divadelní představení spojené s hudbou, zpěvem a tancem. Často ve formě hudební adaptace významných děl světové literatury. Jednotlivé obrazy jsou spojeny volně hlavní postavou nebo dějovým pásmem.
 
 ## 3. Tematika a kompozice literárního díla
 

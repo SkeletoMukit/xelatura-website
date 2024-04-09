@@ -1,5 +1,7 @@
 # Ladislav Fuks
+
 ## Základní informace
+
 - **Jméno:** Ladislav Fuks
 - **Datum narození:** 23. února 1923
 - **Místo narození:** Praha, Československo
@@ -11,29 +13,38 @@
 - **Žánr:** Literatura faktu, psychologický román
 
 ## Život
+
 - Ladislav Fuks se narodil v Praze a strávil většinu svého života v této české metropoli.
 - Studoval gymnázium v Praze a poté pokračoval ve studiu češtiny a angličtiny na Filozofické fakultě Univerzity Karlovy.
 - Během svého života pracoval jako redaktor a novinář.
 - Byl významným představitelem české literatury po druhé světové válce.
 
 ## Dílo
+
 ### Spí se štěstím (1949)
+
 - [[Román]], který se zabývá osudem židovské rodiny za druhé světové války.
 
 ### Pan Theodor Mundstock (1963)
+
 - [[Román]], který líčí život obyčejného člověka za nacistické okupace.
 
 ### Kolotoč (1964)
+
 - Psychologický román, který se zaměřuje na temnou stránku lidské duše a války.
 
 ### Smrt si říká Engelchen (1965)
+
 - Další román o temných stránkách lidské povahy, tentokrát s důrazem na lidskou brutalitu a ztrátu identity za války.
 
 ### [[Spalovač mrtvol]] (1967)
+
 - Fuksův nejslavnější román, který je považován za klasiku české literatury. Vypráví o groteskním příběhu spalovače mrtvol v době nacismu.
 
 ### Síť černého bratrstva (1976)
+
 - [[Román]], který se zaměřuje na problematiku StB a komunistického režimu v Československu.
 
 ### Pan Kaplan má dvě tváře (1979)
+
 - Fuksův poslední román, který opět zkoumá lidskou povahu a morální dilemata za totalitního režimu.

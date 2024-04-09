@@ -1,5 +1,7 @@
 # Alexandr I. Solženicyn
+
 ## Základní informace
+
 - **Jméno:** Alexandr Isajevič Solženicyn
 - **Datum narození:** 11. prosince 1918
 - **Místo narození:** Kislovodsk, Ruské impérium
@@ -11,6 +13,7 @@
 - **Žánr:** Literatura faktu, historická próza, filozofický román
 
 ## Život
+
 - Solženicyn se narodil v rodině kozáka.
 - Během druhé světové války sloužil jako důstojník Rudé armády.
 - Po válce byl zatčen NKVD za kritiku Stalina a strávil 8 let v gulagu.
@@ -20,28 +23,36 @@
 - Po návratu do Ruska po rozpadu Sovětského svazu se angažoval v politice a psal o ruské historii a politice.
 
 ## Dílo
+
 ### [[Jeden den Ivana Děnisoviče]]
+
 - Popisuje denní život v sovětském pracovním táboře.
 - Založen na autorových vlastních zkušenostech v gulagu.
 - Vyšlo v roce 1962 a okamžitě vyvolalo kontroverzi.
 
 ### Souostroví Gulag
+
 - Rozsáhlé dílo, které podrobně popisuje systém sovětských pracovních táborů.
 - Jedno z nejznámějších děl o sovětském represivním aparátu.
 - Vyšlo v roce 1973 a získalo Nobelovu cenu za literaturu.
 
 ### Archipelag Gulag
+
 - Doplnění a rozšíření díla "Souostroví Gulag".
 - Zahrnuje další materiály a reakce na první vydání.
 
 ### Rakovina může být vyléčena
+
 - Politický manifest, ve kterém Solženicyn kritizuje sovětský režim a apeluje na občany, aby se postavili proti němu.
 
 ### První kruh
+
 - [[Román]] zobrazující ruskou historii od počátků komunistického režimu do začátku 21. století.
 
 ### Archipelag 1918–1956
+
 - Historický dokument o vývoji sovětského systému od revoluce až do roku 1956.
 
 ### Matrjoška
+
 - Autobiografický román, který líčí autorovo dětství a rané dospívání.
