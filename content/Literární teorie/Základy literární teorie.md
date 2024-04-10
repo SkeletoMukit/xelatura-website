@@ -11,6 +11,7 @@ Písemnictví označujeme jako soubor všech psaných projevů. Současná jazyk
 • publicistické texty (žurnalistické a popularizační),
 • umělecké texty (krásná literatura, dále jen uměl. literatura, uměl. text),
 • řečnictví.
+
 ### Základní funkce a rysy uměleckého textu, literatury
 
 Základní funkcí umělecké literatury je oslovit osobnost člověka (čtenáře) textem. Zapůsobit tedy na jeho emoce, smysly, rozvíjet jeho fantazii a rozum, formovat schopnost hlubšího zamyšlení, poznat sebe sama. Umělecká literatura dále rozvíjí naše poznání světa, pomáhá nám spoluvytvářet morální hodnoty, ovlivňuje naše myšlení v závažných celospolečenských otázkách např. otázce vztahu viny a trestu. Jde tedy o soubor mnoha funkcí, z nichž nejvýznamnější je funkce estetická – snaha zachytit a prostřednictvím textu předat čtenářům: city, touhy, vítězství i prohry, smutek i radost, lásku a nenávist, radost ze života či strach ze smrti. Umělecký text navíc obsahuje specifické jazykové prostředky (afektivní pojmenování, figury, tropy, rytmus, rým, přímá řeč, polopřímá řeč…) a specifické kompoziční postupy, díky nimž je text ozvláštňován a vyvolává estetický účinek. Literatura navíc pomáhá čtenáři oddychnout si, uvolnit se, pobavit se a dát prostor snění.

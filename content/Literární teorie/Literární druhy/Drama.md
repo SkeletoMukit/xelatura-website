@@ -1,6 +1,7 @@
 # Drama
 
 ## Definice a charakteristika
+
 - **Definice:** Drama je literární žánr, který je určen k divadelnímu provedení a představuje děj a konflikty pomocí dialogů mezi postavami.
 - **Charakteristika:** 
     - Drama se zaměřuje na konflikty a vztahy mezi postavami.
@@ -9,6 +10,7 @@
     - Dramatická díla mohou být tragická, komická nebo tragikomická.
 
 ## Historie
+
 - **Antické drama:**
     - Vzniklo v antickém Řecku a starověkém Římě.
     - Základem byly mýty a legendy.
@@ -21,6 +23,7 @@
     - [[William Shakespeare]] jako jedna z nejvýznamnějších postav.
 
 ## Dramatické prvky
+
 - **Postavy:** 
     - Základní stavební kameny dramatu.
     - Charakterizace, vývoj postav a jejich interakce jsou klíčové.
@@ -32,6 +35,7 @@
     - Vliv na interpretaci a atmosféru hry.
 
 ## Dramatické žánry
+
 - **[[Tragédie]]:** 
     - Dramatický žánr s vážným závěrem pro hlavní postavy.
     - Vytváří emocionální napětí a často končí tragickým údělem postav.
@@ -43,6 +47,7 @@
     - Vytváří napětí a dramatickou sílu.
 
 ## Moderní a současné drama
+
 - **Experimentální drama:** 
     - Inovativní a nekonvenční formy a téma.
     - Zaměřuje se na zkoumání nových témat a forem vyjádření.
@@ -54,6 +59,7 @@
     - Často zkoumá lidskou psychiku a emoce.
 
 ## Význam a role dramatu
+
 - **Edukativní funkce:** 
     - Dramata mohou být použita k výuce historie, společenských otázek a emocionální inteligence.
 - **Reflexe společnosti:** 
@@ -62,6 +68,7 @@
     - Drama poskytuje divákům zábavu a možnost odpočinku od každodenní reality.
 
 ## Dramatické techniky
+
 - **Monolog:** 
     - Projev jedné postavy, kterým vyjadřuje své myšlenky a pocity.
 - **Solilokvium:** 
@@ -70,6 +77,7 @@
     - Očištění emocí diváka prostřednictvím dramatických událostí a konfliktů.
 
 ## Dramatická literatura vs. Dramatické provedení
+
 - **Dramatická literatura:** 
     - Textová forma dramatu, která slouží jako základ pro provedení.
     - Obsahuje dialogy, scénické pokyny a popisy prostředí.
@@ -78,6 +86,7 @@
     - Zahrnuje režii, herecké výkony, scénografii a technické aspekty.
 
 ## Vlivy a kontexty
+
 - **Sociální kontext:** 
     - Dramata odrážejí společenské hodnoty, normy a výzvy dané doby.
 - **Historický kontext:** 

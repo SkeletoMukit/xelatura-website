@@ -61,13 +61,17 @@ Bilbo Pytlík, pohodlný hobit žijící v Doupěti, je vyrušen ze svého klidn
 Gandalf přesvědčí Bilba, aby se připojil k expedici jako zloděj. Bilbo, přestože je zprvu váhavý, souhlasí a vydává se na cestu s trpaslíky v čele s Thorinem Pavézou.
 
 ### Cesta
+
 Skupina putuje přes různé nebezpečné krajiny, setkávají se s elfy, skřety a dalšími bytostmi. Bilbo se ukazuje jako nečekaně statečný a chytrý, což mu umožní překonat mnohá nebezpečí.
 
 ### Konflikt
+
 Hlavním konfliktem je střet s drakem Šmakem, který chrání poklady pod horou Samotou. Bilbo se mu podaří získat dračí kámen a vyřešit věci tak, aby trpaslíci mohli získat své poklady zpět.
 
 ### Rozuzlení
+
 Bitva o Erebor probíhá a trpaslíci bojují za svou domovinu. Nakonec Thorin umírá na následky boje, ale Bilbo a několik trpaslíků přežijí a mají možnost se vrátit domů.
 
 ### Závěr
+
 Bilbo se vrací do Doupěte jako změněný hobit. Sice touží po svém pohodlném životě, ale zároveň touží po dalších dobrodružstvích.

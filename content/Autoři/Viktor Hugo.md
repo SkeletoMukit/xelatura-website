@@ -15,18 +15,18 @@
 ## Život
 
 - **Rané období:**
-  - Narodil se do rodiny generála Josepha Léopolda Sigisberta Huga a Sophie Trébuchet.
-  - V mládí projevoval literární nadání.
+	- Narodil se do rodiny generála Josepha Léopolda Sigisberta Huga a Sophie Trébuchet.
+	- V mládí projevoval literární nadání.
 - **Kariéra:**
-  - Jeho literární kariéra začala v raných dvacátých letech 19. století.
-  - Stal se jedním z nejvýznamnějších francouzských spisovatelů 19. století.
+	- Jeho literární kariéra začala v raných dvacátých letech 19. století.
+	- Stal se jedním z nejvýznamnějších francouzských spisovatelů 19. století.
 - **Exil:**
-  - Po politických nepokojích byl nucen opustit Francii a žil v exilu na Guernsey.
-  - Během exilu napsal některá ze svých nejznámějších děl.
+	- Po politických nepokojích byl nucen opustit Francii a žil v exilu na Guernsey.
+	- Během exilu napsal některá ze svých nejznámějších děl.
 - **Návrat do Francie:**
-  - Po politických změnách se vrátil do Francie a pokračoval ve své literární činnosti.
+	- Po politických změnách se vrátil do Francie a pokračoval ve své literární činnosti.
 - **Smrt:**
-  - Zemřel 22. května 1885 v Paříži na plicní záchvat.
+	- Zemřel 22. května 1885 v Paříži na plicní záchvat.
 
 ## Dílo
 

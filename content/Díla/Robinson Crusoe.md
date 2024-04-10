@@ -1,32 +1,41 @@
 # Robinson Crusoe
+
 ## Základní informace
+
 - **Autor:** [[Daniel Defoe]]
 - **Rok vydání:** 1719
 
 ## Literární druh, žánr a směr 
+
 - **Literární druh:** [[Román]]
 - **Literární žánr:** Dobrodružný román
 - **Literární směr:** Realismus
 
 ## Téma 
+
 - **Téma:** Osamělost, přežití a lidská odolnost v extrémních podmínkách
 - **Myšlenka:** Schopnost člověka překonávat překážky a adaptovat se na nové situace.
 
 ## Prostředí 
+
 - **Prostředí:** Opuštěný ostrov v Karibiku
 
 ## Kompozice 
+
 - **Kompozice:** Dílo je psáno formou deníkových zápisů, které popisují události postupně od začátku do konce pobytu na ostrově.
 
 ## Jazyk 
+
 - **Jazyk:** Angličtina
 - **Stylistika:** Jednoduchý a přímočarý styl psaní, charakteristický pro realistická díla té doby.
 
 ## Jazykové prvky 
+
 - **Popisné prvky:** Detailní popisy prostředí a činností, které Robinson vykonává na ostrově.
 - **Dialogy:** Převážně interní monology, které reflektují vnitřní myšlenky a pocity hlavní postavy.
 
 ## Postavy 
+
 - **Robinson Crusoe:** Hlavní postava, mladý muž toužící po dobrodružství, který se ocitne na opuštěném ostrově a musí se naučit přežít.
 - **Friday:** Název domorodce, kterého Robinson zachrání a stane se jeho věrným pomocníkem.
 - **Další vedlejší postavy:** Například otci, matka, kapitán, lodník, pašerák apod.

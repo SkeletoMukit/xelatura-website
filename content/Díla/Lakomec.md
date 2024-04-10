@@ -1,37 +1,45 @@
 # Lakomec
 
 ## Základní informace
+
 - **Autor**: [[Molière]]
 - **Datum vzniku**: 1668
 
 ## Literární druh, žánr a směr
+
 - **Literární druh**: Divadelní hra
 - **Žánr**: Komická satira
 - **Směr**: Klasické francouzské divadlo 17. století
 
 ## Téma
+
 - **Hlavní téma**: Lakomství a jeho dopady na lidské vztahy a společnost
 - **Další motivy**: Chamtivost, morální rozpory, komedie mání
 
 ## Prostředí
+
 - **Město**: Paříž
 - **Konkrétní lokace**: Domy Harpagona a jeho sousedů, trh, ulice
 
 ## Kompozice
+
 - **Jednoaktová komedie**
 - **Klíčové momenty**: Zábavné situace, odhalování Harpagonových lakomých praktik, komické zvraty
 
 ## Jazyk
+
 - **Francouzština 17. století**
 - **Jazykový styl**: Formální, ale zároveň s výraznými komickými prvky
 
 ## Jazykové prvky
+
 - **Komické dialogy**
 - **Slovní hříčky**
 - **Hyperbolická vyjádření**
 - **Iironie**
 
 ## Postavy
+
 1. **Harpagon**: Titulní postava, chamtivý a lakomý otec
 2. **Cléante**: Harpagonův syn, milující Marianne, ale konfrontovaný s Harpagonovým lakomstvím
 3. **Marianne**: Dívka milující Cléanta, ale pod tlakem Harpagona, aby se provdala za něho
