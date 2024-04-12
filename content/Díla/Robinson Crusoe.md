@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Román]]
-- **Literární žánr:** Dobrodružný román
+- **Literární žánr:** Dobrodružný [Román](Román.md)
 - **Literární směr:** Realismus
 
 ## Téma 

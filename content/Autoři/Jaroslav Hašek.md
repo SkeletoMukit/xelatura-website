@@ -31,12 +31,12 @@
 
 ### Cirkus Humberto
 
-- Humoristický román s prvky absurdity, líčící dobrodružství v cirkuse.
+- Humoristický [Román](Román.md) s prvky absurdity, líčící dobrodružství v cirkuse.
 - Obsahuje mnoho komických situací a postav.
 
 ### Dům na předměstí
 
-- Satirický román zobrazující život na předměstí Prahy.
+- Satirický [Román](Román.md) zobrazující život na předměstí Prahy.
 - Kritizuje byrokracii a sociální poměry své doby.
 
 ### První český čtenář pro děti a mládež

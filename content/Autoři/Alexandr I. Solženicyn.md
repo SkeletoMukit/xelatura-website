@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Srdeční selhání
 - **Národnost:** Rus
 - **Profese:** Spisovatel, politický disident, historik
-- **Žánr:** Literatura faktu, historická próza, filozofický román
+- **Žánr:** Literatura faktu, historická [Próza](Próza.md), filozofický [Román](Román.md)
 
 ## Život
 
@@ -55,4 +55,4 @@
 
 ### Matrjoška
 
-- Autobiografický román, který líčí autorovo dětství a rané dospívání.
+- Autobiografický [Román](Román.md), který líčí autorovo dětství a rané dospívání.

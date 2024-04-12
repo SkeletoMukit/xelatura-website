@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozené příčiny
 - **Národnost:** Česká
 - **Profese:** Spisovatel, novinář
-- **Žánr:** Literatura faktu, psychologický román
+- **Žánr:** Literatura faktu, psychologický [Román](Román.md)
 
 ## Život
 
@@ -31,15 +31,15 @@
 
 ### Kolotoč (1964)
 
-- Psychologický román, který se zaměřuje na temnou stránku lidské duše a války.
+- Psychologický [Román](Román.md), který se zaměřuje na temnou stránku lidské duše a války.
 
 ### Smrt si říká Engelchen (1965)
 
-- Další román o temných stránkách lidské povahy, tentokrát s důrazem na lidskou brutalitu a ztrátu identity za války.
+- Další [Román](Román.md) o temných stránkách lidské povahy, tentokrát s důrazem na lidskou brutalitu a ztrátu identity za války.
 
 ### [[Spalovač mrtvol]] (1967)
 
-- Fuksův nejslavnější román, který je považován za klasiku české literatury. Vypráví o groteskním příběhu spalovače mrtvol v době nacismu.
+- Fuksův nejslavnější [Román](Román.md), který je považován za klasiku české literatury. Vypráví o groteskním příběhu spalovače mrtvol v době nacismu.
 
 ### Síť černého bratrstva (1976)
 
@@ -47,4 +47,4 @@
 
 ### Pan Kaplan má dvě tváře (1979)
 
-- Fuksův poslední román, který opět zkoumá lidskou povahu a morální dilemata za totalitního režimu.
+- Fuksův poslední [Román](Román.md), který opět zkoumá lidskou povahu a morální dilemata za totalitního režimu.

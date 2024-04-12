@@ -10,11 +10,11 @@
 - **Příčina úmrtí:** Plicní onemocnění
 - **Národnost:** Česká
 - **Profese:** básník, dramatik, překladatel
-- **Žánr:** lyrika, epika, drama
+- **Žánr:** [Lyrika](Lyrika.md), [Epika](Epika.md), [Drama](Drama.md)
 
 ## Život
 
-Jaroslav Vrchlický se narodil jako Emil Bohuslav Frída v Lounách, ale v mládí přijal pseudonym Jaroslav Vrchlický. Studoval gymnázium v Praze a poté práva na Karlově univerzitě. Během studií se zapojil do literárního života a začal psát básně a drama. Později pracoval jako advokátní koncipient a redaktor.
+Jaroslav Vrchlický se narodil jako Emil Bohuslav Frída v Lounách, ale v mládí přijal pseudonym Jaroslav Vrchlický. Studoval gymnázium v Praze a poté práva na Karlově univerzitě. Během studií se zapojil do literárního života a začal psát básně a [Drama](Drama.md). Později pracoval jako advokátní koncipient a redaktor.
 
 ## Dílo
 

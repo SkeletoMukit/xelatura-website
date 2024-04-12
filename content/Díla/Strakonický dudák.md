@@ -8,8 +8,8 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Drama]]
-- **Literární žánr:** Komické drama
-- **Literární směr:** Romantismus
+- **Literární žánr:** Komické [Drama](Drama.md)
+- **Literární směr:** [Romantismus](Romantismus.md)
 
 ## Téma 
 

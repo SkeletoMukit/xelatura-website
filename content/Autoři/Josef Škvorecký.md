@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozená smrt
 - **Národnost:** Česká
 - **Profese:** Spisovatel, překladatel, nakladatel
-- **Žánr:** [[Román]], povídka, esej
+- **Žánr:** [[Román]], [Povídka](Povídka.md), esej
 
 ## Život
 

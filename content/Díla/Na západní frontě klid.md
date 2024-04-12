@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Román]]
-- **Literární žánr:** Antiválečná literatura, Psychologický román
+- **Literární žánr:** Antiválečná literatura, Psychologický [Román](Román.md)
 - **Literární směr:** Modernismus
 
 ## Téma 

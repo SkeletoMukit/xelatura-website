@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Tyfus
 - **Národnost:** Česká
 - **Profese:** Spisovatel, básník
-- **Žánr:** [[Lyrika]], próza
+- **Žánr:** [[Lyrika]], [Próza](Próza.md)
 
 ## Život
 

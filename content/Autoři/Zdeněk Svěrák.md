@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** *Není k dispozici (k lednu 2022)*
 - **Národnost:** Česká
 - **Profese:** Herec, scenárista, spisovatel
-- **Žánr:** [[Komedie]], drama
+- **Žánr:** [[Komedie]], [Drama](Drama.md)
 
 ## Život
 
@@ -48,7 +48,7 @@
 
 #### Obecná škola
 
-- Další spolupráce s Jiřím Menzelem, komedie z roku 1991.
+- Další spolupráce s Jiřím Menzelem, [Komedie](Komedie.md) z roku 1991.
 - Film se odehrává v 50. letech 20. století a sleduje příběh učitele na venkovské škole.
 
 ### Divadelní dílo

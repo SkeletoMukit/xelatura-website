@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozená smrt
 - **Národnost:** Česká
 - **Profese:** Spisovatel, novinář
-- **Žánr:** Povídky, eseje, poezie
+- **Žánr:** Povídky, eseje, [Poezie](Poezie.md)
 
 ## Život
 
@@ -18,7 +18,7 @@
 - Studoval gymnázium a poté práva, ale studium nedokončil.
 - Po studiích pracoval jako úředník a novinář.
 - Byl aktivní v kulturním životě Prahy a zapojil se do českého národního obrození.
-- Spoluzakládal časopis Máj, který podporoval moderní literaturu a umění.
+- Spoluzakládal časopis [Máj](Máj.md), který podporoval moderní literaturu a umění.
 - Proslul svou ironickou prózou a poetickým popisem Prahy.
 - Zemřel v roce 1891 v Praze ve věku 57 let.
 

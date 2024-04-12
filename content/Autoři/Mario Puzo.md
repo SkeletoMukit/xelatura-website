@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Selhání srdce
 - **Národnost:** Americká
 - **Profese:** Spisovatel, scenárista
-- **Žánr:** Krimi, mafie, drama
+- **Žánr:** Krimi, mafie, [Drama](Drama.md)
 
 ## Život
 
@@ -27,7 +27,7 @@ Mario Puzo se narodil v chudé sicilsko-americké rodině v New Yorku. Studoval 
 ### Poslední don (The Last Don)
 
 - **Rok vydání:** 1996
-- **Žánr:** Krimi, drama
+- **Žánr:** Krimi, [Drama](Drama.md)
 - **Děj:** [[Román]] se zaměřuje na sicilsko-americkou rodinu Clericuzio, která působí v organizovaném zločinu. Příběh sleduje jejich vzestupy a pády, konkrétně se soustředí na dědice Dona Domenica Clericuzia a jeho konflikty s jinými mafiánskými rodinami.
 
 ### Sicilský bůh (The Sicilian)
@@ -45,7 +45,7 @@ Mario Puzo se narodil v chudé sicilsko-americké rodině v New Yorku. Studoval 
 ### The Family
 
 - **Rok vydání:** 2001 (posmrtně)
-- **Žánr:** [[Historický román]], drama
+- **Žánr:** [[Historický román]], [Drama](Drama.md)
 - **Děj:** [[Román]] se odehrává v Sicílii v 19. století a sleduje příběh rodiny Bocchicchio, která čelí mnoha výzvám a konfliktům v době politických a sociálních změn.
 
 Mario Puzo je známý svým zobrazováním světa mafie a sicilského života v Americe. Jeho knihy často kombinují prvky kriminálního žánru s hlubšími úvahami o morálce, rodině a mocenských vztazích.

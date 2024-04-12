@@ -14,7 +14,7 @@
 ## Téma
 
 - **Hlavní téma**: Lakomství a jeho dopady na lidské vztahy a společnost
-- **Další motivy**: Chamtivost, morální rozpory, komedie mání
+- **Další motivy**: Chamtivost, morální rozpory, [Komedie](Komedie.md) mání
 
 ## Prostředí
 
@@ -23,7 +23,7 @@
 
 ## Kompozice
 
-- **Jednoaktová komedie**
+- **Jednoaktová [Komedie](Komedie.md)**
 - **Klíčové momenty**: Zábavné situace, odhalování Harpagonových lakomých praktik, komické zvraty
 
 ## Jazyk

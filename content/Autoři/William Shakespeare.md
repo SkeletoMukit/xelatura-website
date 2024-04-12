@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Neznámá (Předpokládá se, že přirozené příčiny)
 - **Národnost:** Anglická
 - **Profese:** Dramatik, básník, herec
-- **Žánr:** [[Tragédie]], komedie, historické drama, román, sonet
+- **Žánr:** [[Tragédie]], [Komedie](Komedie.md), historické [Drama](Drama.md), [Román](Román.md), [Sonet](Sonet.md)
 
 ## Život
 
@@ -29,7 +29,7 @@
 
 ### [[Romeo a Julie]]
 
-- Klasická tragédie o zakázané lásce dvou mladých milenců z nepřátelských rodin.
+- Klasická [Tragédie](Tragédie.md) o zakázané lásce dvou mladých milenců z nepřátelských rodin.
 
 ### Macbeth
 

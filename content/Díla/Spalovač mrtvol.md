@@ -8,8 +8,8 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Román]]
-- **Literární žánr:** Psychologický román
-- **Literární směr:** Česká poválečná próza
+- **Literární žánr:** Psychologický [Román](Román.md)
+- **Literární směr:** Česká poválečná [Próza](Próza.md)
 
 ## Téma 
 

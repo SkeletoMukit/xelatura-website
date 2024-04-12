@@ -26,7 +26,7 @@
 
 - Jedno z nejznámějších děl Defoea.
 - Popisuje příběh Robisona Crusoe, muže, který přežil loďskou havárii a strávil mnoho let osamocen na pustém ostrově.
-- [[Román]] je často považován za první anglický román.
+- [[Román]] je často považován za první anglický [Román](Román.md).
 
 ### Moll Flanders
 

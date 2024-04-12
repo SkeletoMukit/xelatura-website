@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Román]]
-- **Literární žánr:** Válečná literatura, humoristická próza
+- **Literární žánr:** Válečná literatura, humoristická [Próza](Próza.md)
 - **Literární směr:** Česká literatura 20. století
 
 ## Téma 

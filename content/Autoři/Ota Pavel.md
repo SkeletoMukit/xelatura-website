@@ -20,7 +20,7 @@ Ota Pavel se narodil 2. července 1930 v Praze. Jeho rodina byla židovského p�
 
 ### [[Smrt krásných srnců]]
 
-- Autobiografický román, který pojednává o autorově dětství, vášni k lovu a vztahu k přírodě.
+- Autobiografický [Román](Román.md), který pojednává o autorově dětství, vášni k lovu a vztahu k přírodě.
 - Vypráví o jeho vztahu k otci a o ztrátě innocence v době válečných událostí.
 - Vydáno poprvé v roce 1971.
 

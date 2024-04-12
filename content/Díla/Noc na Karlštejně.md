@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** Divadelní hra
-- **Literární žánr:** Historická drama
+- **Literární žánr:** Historická [Drama](Drama.md)
 - **Literární směr:** Realismus
 
 ## Téma 

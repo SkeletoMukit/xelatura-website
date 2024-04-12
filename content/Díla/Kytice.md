@@ -9,8 +9,8 @@
 ## Literární druh, žánr a směr
 
 - **Literární druh:** [Povídka](Povídka.md)/básnická sbírka
-- **Literární žánr:** [Pohádka](Pohádka.md)/balada
-- **Literární směr:** Romantismus
+- **Literární žánr:** [Pohádka](Pohádka.md)/[Balada](Balada.md)
+- **Literární směr:** [Romantismus](Romantismus.md)
 
 ## Téma
 

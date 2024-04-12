@@ -16,7 +16,7 @@
 
 Bohumil Hrabal se narodil 28. března 1914 v Brně, které tehdy patřilo k Rakousku-Uhersku (dnes Česká republika). Studoval právo na Karlově univerzitě v Praze, ale studium nedokončil kvůli druhé světové válce. Během války pracoval jako dělník a úředník. Po válce pracoval v různých zaměstnáních, včetně železničního úředníka a výčepního.
 
-Hrabal začal psát již v mládí, ale jeho první díla nebyla publikována až do 60. let 20. století. Jeho první román "Perlička na dně" byl publikován v roce 1963. Během svého života napsal mnoho významných děl, která získala mezinárodní uznání.
+Hrabal začal psát již v mládí, ale jeho první díla nebyla publikována až do 60. let 20. století. Jeho první [Román](Román.md) "Perlička na dně" byl publikován v roce 1963. Během svého života napsal mnoho významných děl, která získala mezinárodní uznání.
 
 Během komunistického režimu bylo Hrabalovo dílo cenzurováno, a to i přesto, že byl často považován za jednoho z nejvýznamnějších českých spisovatelů své doby. V roce 1992 obdržel ocenění Nejvyšší československý státní vyznamenání za literaturu.
 
@@ -34,7 +34,7 @@ Bohumil Hrabal zemřel 3. února 1997 ve věku 82 let po pádu z okna svého byt
 
 ### Příliš hlučná samota
 
-- Tento román je považován za jedno z vrcholných děl Hrabalovy tvorby. Popisuje život a dobrodružství excentrického sběratele starých novin.
+- Tento [Román](Román.md) je považován za jedno z vrcholných děl Hrabalovy tvorby. Popisuje život a dobrodružství excentrického sběratele starých novin.
 
 ### Obsluhoval jsem anglického krále
 

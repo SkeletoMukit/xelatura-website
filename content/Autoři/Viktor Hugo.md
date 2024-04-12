@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Plicní záchvat
 - **Národnost:** Francouzská
 - **Profese:** Spisovatel, básník, dramatik
-- **Žánr:** Romantismus, realistická literatura
+- **Žánr:** [Romantismus](Romantismus.md), realistická literatura
 
 ## Život
 
@@ -33,16 +33,16 @@
 ### Chrám Matky Boží v Paříži (Notre-Dame de Paris)
 
 - Jedno z jeho nejslavnějších děl.
-- Román zasazený do 15. století, líčící osudy kvazimoda, zohaveného zvoníka z chrámu Notre-Dame v Paříži.
+- [Román](Román.md) zasazený do 15. století, líčící osudy kvazimoda, zohaveného zvoníka z chrámu Notre-Dame v Paříži.
 
 ### Bídníci (Les Misérables)
 
 - Jedno z jeho vrcholných děl.
-- Román sledující osudy několika postav během francouzské revoluce a následujících let.
+- [Román](Román.md) sledující osudy několika postav během francouzské revoluce a následujících let.
 
 ### Muž, který se směje (L'Homme Qui Rit)
 
-- Román líčící osud sirotka, který je nucen žít jako klaun a který se snaží najít své místo ve světě.
+- [Román](Román.md) líčící osud sirotka, který je nucen žít jako klaun a který se snaží najít své místo ve světě.
 
 ### Cromwell
 
@@ -58,16 +58,16 @@
 
 ### Ruy Blas
 
-- Historická drama, které pojednává o intrikách španělského dvora.
+- Historická [Drama](Drama.md), které pojednává o intrikách španělského dvora.
 
 ### Chatterton
 
-- Drama inspirované životem anglického básníka Thomase Chattertona.
+- [Drama](Drama.md) inspirované životem anglického básníka Thomase Chattertona.
 
 ### Ševci světa (Les Travailleurs de la Mer)
 
-- Román odehrávající se na ostrově Guernsey, kde autor žil v exilu, líčící zápas člověka s přírodou a se společností.
+- [Román](Román.md) odehrávající se na ostrově Guernsey, kde autor žil v exilu, líčící zápas člověka s přírodou a se společností.
 
 ### Život a dobrodružství Hernaniho, šlechtice zjizvené tváře (Hernani)
 
-- Historické drama, které bylo první inscenováno v Théâtre-Français a vyvolalo bouři v divadelním světě.
+- Historické [Drama](Drama.md), které bylo první inscenováno v Théâtre-Français a vyvolalo bouři v divadelním světě.

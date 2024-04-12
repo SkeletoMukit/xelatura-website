@@ -3,13 +3,13 @@
 ## Základní informace
 
 - Autor: [[Alexandre Dumas starší]]
-- Rok vydání: 1844-1846 (původně jako román v časopisech)
+- Rok vydání: 1844-1846 (původně jako [Román](Román.md) v časopisech)
 
 ## Literární druh, žánr a směr
 
 - **Literární druh**: [[Román]]
-- **Žánr**: Dobrodružný román, historický román, psychologický román
-- **Směr**: Romantismus
+- **Žánr**: Dobrodružný [Román](Román.md), [Historický román](Historický%20román.md), psychologický [Román](Román.md)
+- **Směr**: [Romantismus](Romantismus.md)
 
 ## Téma a myšlenka
 

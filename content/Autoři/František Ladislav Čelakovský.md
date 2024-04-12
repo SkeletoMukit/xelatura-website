@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozené příčiny (podezření na infarkt)
 - **Národnost:** Česká
 - **Profese:** Spisovatel, básník, překladatel, literární kritik
-- **Žánr:** Lyrika, epika, kritika
+- **Žánr:** [Lyrika](Lyrika.md), [Epika](Epika.md), kritika
 
 ## Život
 

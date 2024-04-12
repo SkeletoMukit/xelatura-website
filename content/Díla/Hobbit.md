@@ -33,7 +33,7 @@
 ## Jazyk 
 
 - Tolkien vytváří detailní a poutavý jazyk s různými nářečími pro různé postavy a druhy.
-- Jazyk je často archaický a formální, což přispívá k vytvoření autentického fantasy prostředí.
+- Jazyk je často archaický a formální, což přispívá k vytvoření autentického [Fantasy](Fantasy.md) prostředí.
 
 ## Jazykové prvky 
 

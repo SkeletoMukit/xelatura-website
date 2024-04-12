@@ -7,9 +7,9 @@
 
 ## Literární druh, žánr a směr 
 
-- **Literární druh:** [[Drama]]/tragédie
-- **Literární žánr:** Romantická tragédie
-- **Literární směr:** Elizabethánské drama
+- **Literární druh:** [[Drama]]/[Tragédie](Tragédie.md)
+- **Literární žánr:** Romantická [Tragédie](Tragédie.md)
+- **Literární směr:** Elizabethánské [Drama](Drama.md)
 
 ## Téma 
 

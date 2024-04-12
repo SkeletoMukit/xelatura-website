@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** 
 - **Národnost:** Česká
 - **Profese:** Spisovatelé
-- **Žánr:** Realistická próza
+- **Žánr:** Realistická [Próza](Próza.md)
 
 ## Život
 
@@ -34,6 +34,6 @@ Bratři Mrštíkové jsou známí především jako spisovatelé realistických 
 
 ### Tolstý člověk
 
-- Další román napsaný bratry Mrštíky, který vyšel v roce 1897. Příběh sleduje osudy venkovského obyvatele, který se snaží zlepšit své životní podmínky a vypořádat se s konzervativními tradicemi.
+- Další [Román](Román.md) napsaný bratry Mrštíky, který vyšel v roce 1897. Příběh sleduje osudy venkovského obyvatele, který se snaží zlepšit své životní podmínky a vypořádat se s konzervativními tradicemi.
 
 Díla Bratří Mrštíků patří k významným českým literárním dílům 19. století a odrážejí dobové sociální a politické problémy. Jejich tvorba je stále studována a ceněna jak v rámci české, tak i světové literární tradice.

@@ -18,7 +18,7 @@
 - Studoval na prestižním Collège de Clermont v Paříži.
 - V roce 1643 si změnil jméno na Molière a začal se věnovat divadlu.
 - Zakládal vlastní divadelní společnosti, které často zkrachovaly.
-- Přestože byl považován za génia komedie, trpěl bídnými finančními podmínkami a byl zadlužený.
+- Přestože byl považován za génia [Komedie](Komedie.md), trpěl bídnými finančními podmínkami a byl zadlužený.
 - Molière zemřel v Paříži ve věku 51 let během představení své hry "Le Malade imaginaire" (Zaléčení smyšleného choroby).
 
 ## Dílo
@@ -26,7 +26,7 @@
 ### Tartuffe (1664)
 
 - Jedna z nejznámějších Molièrových her.
-- Satirická komedie, která kritizuje pokrytectví a falešnou zbožnost.
+- Satirická [Komedie](Komedie.md), která kritizuje pokrytectví a falešnou zbožnost.
 - Setkala se s ostrou kritikou církevních autorit a byla na čas zakázána.
 
 ### Don Juan (1665)

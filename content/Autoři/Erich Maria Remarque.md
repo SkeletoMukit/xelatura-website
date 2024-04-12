@@ -10,14 +10,14 @@
 - **Příčina úmrtí:** Srdeční selhání
 - **Národnost:** Německá
 - **Profese:** Spisovatel
-- **Žánr:** Válečná literatura, historický román
+- **Žánr:** Válečná literatura, [Historický román](Historický%20román.md)
 
 ## Život
 
 - Erich Maria Remarque se narodil v Německu v roce 1898.
 - Během první světové války sloužil v německé armádě a byl zraněn.
 - Po válce pracoval jako učitel, novinář a knihovník.
-- Jeho nejslavnějším dílem je román "[[Na západní frontě klid]]", který popisuje hrůzy války z pohledu mladého vojáka.
+- Jeho nejslavnějším dílem je [Román](Román.md) "[[Na západní frontě klid]]", který popisuje hrůzy války z pohledu mladého vojáka.
 - Během nacistické éry byla jeho knihám zakázána distribuce a byl pronásledován.
 - Po druhé světové válce se přestěhoval do Švýcarska, kde strávil zbytek svého života.
 - Zemřel v roce 1970 na srdeční selhání ve Švýcarsku.
@@ -26,7 +26,7 @@
 
 ### [[Na západní frontě klid]]
 
-- Jedná se o jeho nejslavnější román, vydaný v roce 1929.
+- Jedná se o jeho nejslavnější [Román](Román.md), vydaný v roce 1929.
 - Popisuje hrůzy první světové války z pohledu mladého německého vojáka Paula Bäumera.
 - [[Román]] zdůrazňuje absurditu války a její dehumanizující vliv na mladé muže.
 - Stal se mezinárodním bestsellerem a byl přeložen do mnoha jazyků.

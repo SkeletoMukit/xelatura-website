@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Román]]
-- **Literární žánr:** Satira, humoristický román
+- **Literární žánr:** Satira, humoristický [Román](Román.md)
 - **Literární směr:** Česká literatura 20. století, literatura expresionismu
 
 ## Téma 

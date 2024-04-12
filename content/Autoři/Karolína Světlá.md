@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozená smrt
 - **Národnost:** Česká
 - **Profese:** Spisovatelka
-- **Žánr:** Romantická próza, historický román
+- **Žánr:** Romantická [Próza](Próza.md), [Historický román](Historický%20román.md)
 
 ## Život
 
@@ -24,18 +24,18 @@
 ### Babička
 
 - Jedno z nejznámějších děl Karolíny Světlé.
-- Román odehrávající se ve vesnickém prostředí, líčí osudy rodiny a vztahy mezi generacemi.
+- [Román](Román.md) odehrávající se ve vesnickém prostředí, líčí osudy rodiny a vztahy mezi generacemi.
 - Silný důraz na morální hodnoty a vztah k českému venkovu.
 
 ### Podskalský rok
 
-- Historický román zobrazující pražský Podskalí v 17. století.
+- [Historický román](Historický%20román.md) zobrazující pražský Podskalí v 17. století.
 - Mapuje společenské a politické události té doby, jako je bitva na Bílé Hoře.
 - Přináší portrét obyčejných lidí, jejichž životy ovlivňuje historické dění. 
 
 ### Kříž u potoka
 
-- Román s historickou tematikou, který líčí protikladný vztah mezi feudály a prostým lidem.
+- [Román](Román.md) s historickou tematikou, který líčí protikladný vztah mezi feudály a prostým lidem.
 - Zaměřuje se na boj o spravedlnost a lidskou důstojnost.
 - Přináší silné emoční zážitky a morální ponaučení.
 

@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozená příčina
 - **Národnost:** Česká
 - **Profese:** Herec, režisér, scenárista
-- **Žánr:** [[Komedie]], satira, drama
+- **Žánr:** [[Komedie]], satira, [Drama](Drama.md)
 
 ## Život
 
@@ -32,15 +32,15 @@
 
 - **Rok vydání:** 1982
 - **Žánr:** [[Komedie]]
-- **Popis:** Další úspěšná komedie, kterou Smoljak a Svěrák napsali a natočili. Film se stal oblíbeným dílem české kinematografie.
+- **Popis:** Další úspěšná [Komedie](Komedie.md), kterou Smoljak a Svěrák napsali a natočili. Film se stal oblíbeným dílem české kinematografie.
 
 ### Další díla
 
 #### Pelíšky
 
 - **Rok vydání:** 1999
-- **Žánr:** [[Komedie]], drama
-- **Popis:** Smoljak se podílel na scénáři k tomuto filmu, který je jedním z nejoblíbenějších českých filmů. Pelíšky jsou směsí komedie a dobového drama odehrávajícího se v období normalizace v Československu.
+- **Žánr:** [[Komedie]], [Drama](Drama.md)
+- **Popis:** Smoljak se podílel na scénáři k tomuto filmu, který je jedním z nejoblíbenějších českých filmů. Pelíšky jsou směsí [Komedie](Komedie.md) a dobového [Drama](Drama.md) odehrávajícího se v období normalizace v Československu.
 
 #### Jára Cimrman ležící, spící
 
@@ -51,5 +51,5 @@
 #### Konec velkých prázdnin
 
 - **Rok vydání:** 1997
-- **Žánr:** [[Komedie]], drama
+- **Žánr:** [[Komedie]], [Drama](Drama.md)
 - **Popis:** Smoljak napsal scénář k tomuto filmu, který je dalším příkladem českého filmu kombinujícího komedii s historickým a dobovým dramatem.

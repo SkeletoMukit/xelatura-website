@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Komplikace způsobené tuberkulózou
 - **Národnost:** Česká
 - **Profese:** Spisovatel, novinář, básník, politický aktivista
-- **Žánr:** Novela, poezie, publicistika
+- **Žánr:** [Novela](Novela.md), [Poezie](Poezie.md), publicistika
 
 ## Život
 
@@ -39,11 +39,11 @@
 
 ### Král Lávra
 
-- Román, kterým Havlíček Borovský kritizuje církevní poměry a nevědomost venkovských lidí. Je považován za jedno z jeho hlavních děl.
+- [Román](Román.md), kterým Havlíček Borovský kritizuje církevní poměry a nevědomost venkovských lidí. Je považován za jedno z jeho hlavních děl.
 
 ### Křest svatého Vladimíra
 
-- Román napsaný jako reakce na útlak českého národa a ruský absolutismus.
+- [Román](Román.md) napsaný jako reakce na útlak českého národa a ruský absolutismus.
 
 ### Tyrolské listy
 

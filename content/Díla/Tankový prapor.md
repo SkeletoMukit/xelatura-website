@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Román]]
-- **Literární žánr:** Válečná literatura, dobrodružný román
+- **Literární žánr:** Válečná literatura, dobrodružný [Román](Román.md)
 - **Literární směr:** 
 
 ## Téma 

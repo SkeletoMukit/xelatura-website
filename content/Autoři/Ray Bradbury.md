@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Pneumonie
 - **Národnost:** Američan
 - **Profese:** Spisovatel, scenárista
-- **Žánr:** [[Science fiction]], fantasy, horor, literatura faktu
+- **Žánr:** [[Science fiction]], [Fantasy](Fantasy.md), [Horor](Horor.md), literatura faktu
 
 ## Život
 
@@ -44,5 +44,5 @@
 
 ### Something Wicked This Way Comes (Něco zlého se blíží)
 
-- [[Román]], který kombinuje prvky fantasy a hororu.
+- [[Román]], který kombinuje prvky [Fantasy](Fantasy.md) a hororu.
 - Vypráví příběh dvou chlapců, kteří se setkávají s temnou cirkusem, který mění životy obyvatel jejich malého města.

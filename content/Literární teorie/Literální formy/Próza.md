@@ -2,7 +2,7 @@
 
 ## Co je to próza?
 
-- **Definice**: Próza je literární forma, která se vyznačuje nepoužíváním metrických schémat, na rozdíl od poezie.
+- **Definice**: Próza je literární forma, která se vyznačuje nepoužíváním metrických schémat, na rozdíl od [Poezie](Poezie.md).
 - **Charakteristika**: Texty v próze jsou psány v plynulém narativním stylu, s důrazem na vyprávění příběhu a rozvoj postav.
 - **Rozmanitost žánrů**: Zahrnuje různé žánry jako romány, povídky, eseje, cestopisy atd.
 
@@ -14,7 +14,7 @@
 
 ## Charakteristiky moderní prózy
 
-- **Délka**: Může být krátká (povídka) nebo delší (román).
+- **Délka**: Může být krátká ([Povídka](Povídka.md)) nebo delší ([Román](Román.md)).
 - **Rozmanitost stylů**: Moderní próza se může vyznačovat různými styly a technikami, jako je proud vědomí, experimentace s časem nebo perspektivou.
 - **Témata**: Zahrnuje širokou škálu témat, od osobních osudů po společenské problémy a fantastická dobrodružství.
 

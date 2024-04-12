@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Tuberkulóza
 - **Národnost:** Česká
 - **Profese:** Spisovatelka, básnířka
-- **Žánr:** Próza, poezie
+- **Žánr:** [Próza](Próza.md), [Poezie](Poezie.md)
 
 ## Život
 

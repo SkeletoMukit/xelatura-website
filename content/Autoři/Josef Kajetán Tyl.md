@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Neznámá (pravděpodobně zápal plic)
 - **Národnost:** Česká
 - **Profese:** Dramatik, básník, novinář
-- **Žánr:** Divadelní hry, poezie
+- **Žánr:** Divadelní hry, [Poezie](Poezie.md)
 
 ## Život
 
@@ -29,7 +29,7 @@ Josef Kajetán Tyl zemřel 11. července 1856 ve věku 48 let v Poličce, kde st
 
 ### [[Strakonický dudák]]
 
-- Historická komedie
+- Historická [Komedie](Komedie.md)
 - Datum vydání: 1836
 
 ### Jan Hus

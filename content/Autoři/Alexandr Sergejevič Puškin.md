@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Smrtelný souboj
 - **Národnost:** Rus
 - **Profese:** básník, spisovatel
-- **Žánr:** lyrika, drama, próza
+- **Žánr:** [Lyrika](Lyrika.md), [Drama](Drama.md), [Próza](Próza.md)
 
 ## Život
 
@@ -24,11 +24,11 @@ Puškin zemřel ve věku 37 let v souboji s francouzským aristokratem Georgesem
 
 ### Evžen Oněgin (Евгений Онегин)
 
-- Román v próze, považován za jedno z nejvýznamnějších děl ruské literatury. Popisuje tragickou lásku a osudy hlavních postav v ruské společnosti.
+- [Román](Román.md) v próze, považován za jedno z nejvýznamnějších děl ruské literatury. Popisuje tragickou lásku a osudy hlavních postav v ruské společnosti.
 
 ### Boris Godunov (Борис Годунов)
 
-- Historická tragédie, založená na skutečných událostech v ruských dějinách, zejména na období vlády cara Borise Godunova.
+- Historická [Tragédie](Tragédie.md), založená na skutečných událostech v ruských dějinách, zejména na období vlády cara Borise Godunova.
 
 ### Mazepa (Мазепа)
 
@@ -36,8 +36,8 @@ Puškin zemřel ve věku 37 let v souboji s francouzským aristokratem Georgesem
 
 ### Kapitánská dcerka (Капитанская дочка)
 
-- Román odehrávající se v době vlády carevny Kateřiny Veliké, který kombinuje prvky romantického a historického žánru.
+- [Román](Román.md) odehrávající se v době vlády carevny Kateřiny Veliké, který kombinuje prvky romantického a historického žánru.
 
 ### Piková dáma (Пиковая дама)
 
-- Novela s prvky fantastiky a mystiky, která vypráví příběh hráčské posedlosti a tajemství tajemné karty pikové dámy.
+- [Novela](Novela.md) s prvky fantastiky a mystiky, která vypráví příběh hráčské posedlosti a tajemství tajemné karty pikové dámy.

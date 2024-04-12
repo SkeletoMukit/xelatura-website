@@ -7,7 +7,7 @@
 
 ## Literární druh, žánr a směr 
 
-- **Literární druh:** [[Povídka]] (balada)
+- **Literární druh:** [[Povídka]] ([Balada](Balada.md))
 - **Literární žánr:** Romantika
 - **Literární směr:** Česká romantická literatura
 

@@ -2,15 +2,15 @@
 
 ## Májovci
 
-- Pojmenování po díle Máj od Karla Hynka Máchy
-- Jan Neruda
+- Pojmenování po díle [Máj](Máj.md) od Karla Hynka Máchy
+- [Jan Neruda](Jan%20Neruda.md)
 
 ## Ruchovci
 
 - Konzervativci
 - Nechtěli překládat
 - Vydávali starý knížky
-- Jaroslav Vrchlický - nejlepší český překladatel
+- [Jaroslav Vrchlický](Jaroslav%20Vrchlický.md) - nejlepší český překladatel
 - Josef Václav Sládek - překladatel Shakespeara
 
 ## Lumírovci

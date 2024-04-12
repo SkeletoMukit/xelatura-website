@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Román]]
-- **Žánr:** Krimi, drama
+- **Žánr:** Krimi, [Drama](Drama.md)
 - **Literární směr:** Realismus
 
 ## Téma 

@@ -8,7 +8,7 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [[Drama]]
-- **Literární žánr:** Antická tragédie
+- **Literární žánr:** Antická [Tragédie](Tragédie.md)
 - **Literární směr:** Český expresionismus
 
 ## Téma 

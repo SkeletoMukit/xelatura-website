@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Zápal plic
 - **Národnost:** Česká
 - **Profese:** Spisovatel, dramatik, novinář
-- **Žánr:** [[Science fiction]], sociální satira, drama
+- **Žánr:** [[Science fiction]], sociální satira, [Drama](Drama.md)
 
 ## Život
 
@@ -32,7 +32,7 @@
 
 ### Krakatit - 1922
 
-- Vědeckofantastický román o nebezpečném vynálezu, který může zničit svět.
+- Vědeckofantastický [Román](Román.md) o nebezpečném vynálezu, který může zničit svět.
 
 ### Ze života hmyzu - 1921
 
@@ -44,7 +44,7 @@
 
 ### Matka - 1907
 
-- Čapekův první román, kde líčí život venkovského kněze.
+- Čapekův první [Román](Román.md), kde líčí život venkovského kněze.
 
 ### [[Bílá nemoc]] - 1937
 

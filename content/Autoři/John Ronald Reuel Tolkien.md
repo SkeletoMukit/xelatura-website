@@ -28,7 +28,7 @@
 
 ### Pán prstenů (1954–1955)
 
-- Epický fantasy román rozdělený do tří dílů: Společenstvo prstenu, Dvě věže a Návrat krále. Sleduje osudy hobita jménem Frodo Pytlík a jeho společníků při jejich misi zničit Jedno Prsten.
+- Epický [Fantasy](Fantasy.md) [Román](Román.md) rozdělený do tří dílů: Společenstvo prstenu, Dvě věže a Návrat krále. Sleduje osudy hobita jménem Frodo Pytlík a jeho společníků při jejich misi zničit Jedno Prsten.
 
 ### Silmarillion (1977)
 

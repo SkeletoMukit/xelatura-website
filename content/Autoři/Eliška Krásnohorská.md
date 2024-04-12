@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozená smrt
 - **Národnost:** Česká
 - **Profese:** Spisovatelka, básnířka, překladatelka
-- **Žánr:** Poezie, próza, překlady
+- **Žánr:** [Poezie](Poezie.md), [Próza](Próza.md), překlady
 
 ## Život
 

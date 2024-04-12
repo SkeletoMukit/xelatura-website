@@ -14,7 +14,7 @@
 - **Antické drama:**
     - Vzniklo v antickém Řecku a starověkém Římě.
     - Základem byly mýty a legendy.
-    - Hlavními žánry byla tragédie a komedie.
+    - Hlavními žánry byla [Tragédie](Tragédie.md) a [Komedie](Komedie.md).
 - **Středověké drama:**
     - Propojení náboženství a dramatického vyjádření.
     - Mystérium, moralita, a interludium jako hlavní formy.
