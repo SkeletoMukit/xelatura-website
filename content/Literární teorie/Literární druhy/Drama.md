@@ -92,4 +92,4 @@
 - **Historický kontext:** 
     - Historické události a období mohou ovlivnit téma a obsah dramatu.
 - **Kulturní kontext:** 
-    - Kulturní aspekty, jako je jazyk, tradice a obyčeje, mohou ovlivnit formu a obsah dramatu.
+    - Kulturní aspekty, jako je [Jazyk](Jazyk.md), tradice a obyčeje, mohou ovlivnit formu a obsah dramatu.

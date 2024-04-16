@@ -29,8 +29,8 @@
 
 ## Jazyk 
 
-- **Jazyk:** Bohatý, lyrický, plný básnických obratů a symbolů.
-- **Stylistické prostředky:** Metafory, alegorie, archaický jazyk.
+- **[Jazyk](Jazyk.md):** Bohatý, lyrický, plný básnických obratů a symbolů.
+- **Stylistické prostředky:** Metafory, alegorie, archaický [Jazyk](Jazyk.md).
 
 ## Jazykové prvky 
 

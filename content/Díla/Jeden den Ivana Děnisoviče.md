@@ -26,7 +26,7 @@
 
 ## Jazyk 
 
-- **Jazyk:** Střízlivý a prostý, reflektuje prostředí a podmínky, ve kterých se příběh odehrává.
+- **[Jazyk](Jazyk.md):** Střízlivý a prostý, reflektuje prostředí a podmínky, ve kterých se příběh odehrává.
 
 ## Jazykové prvky 
 

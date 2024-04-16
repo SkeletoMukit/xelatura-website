@@ -17,7 +17,7 @@
 - Božena Němcová se narodila v rodině malíře Josefa Michala Šimona a jeho manželky Terezie Novotné.
 - Dětství prožila v Čechách a na Slovensku.
 - V roce 1845 se provdala za Josefa Němcového a žila s ním na venkově.
-- Byla aktivní v oblasti národního obrození a podporovala český jazyk a kulturu.
+- Byla aktivní v oblasti národního obrození a podporovala český [Jazyk](Jazyk.md) a kulturu.
 - Zemřela ve věku 41 let na tuberkulózu, ale její literární odkaz přežívá dodnes.
 
 ## Dílo

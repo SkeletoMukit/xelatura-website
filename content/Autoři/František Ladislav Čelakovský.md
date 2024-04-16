@@ -17,7 +17,7 @@
 - František Ladislav Čelakovský se narodil v Čáslavi, kde strávil své dětství a mládí.
 - Studoval filozofii a práva na Karlově univerzitě v Praze.
 - Věnoval se literární činnosti a stal se významným představitelem českého národního obrození.
-- Přispíval do literárních časopisů a podporoval český jazyk a kulturu.
+- Přispíval do literárních časopisů a podporoval český [Jazyk](Jazyk.md) a kulturu.
 - Zasloužil se o rozvoj české literatury a básnictví.
 
 ## Dílo

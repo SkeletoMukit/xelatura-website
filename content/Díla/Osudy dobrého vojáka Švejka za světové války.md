@@ -28,7 +28,7 @@
 ## Jazyk 
 
 - Jedná se o vypravěčský styl s důrazem na dialogy a vnitřní monology postav.
-- Jazyk je jednoduchý, ale plný sarkasmu a ironie, často parodující válečnou rétoriku.
+- [Jazyk](Jazyk.md) je jednoduchý, ale plný sarkasmu a ironie, často parodující válečnou rétoriku.
 
 ## Jazykové prvky 
 

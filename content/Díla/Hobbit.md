@@ -32,12 +32,12 @@
 
 ## Jazyk 
 
-- Tolkien vytváří detailní a poutavý jazyk s různými nářečími pro různé postavy a druhy.
-- Jazyk je často archaický a formální, což přispívá k vytvoření autentického [Fantasy](Fantasy.md) prostředí.
+- Tolkien vytváří detailní a poutavý [Jazyk](Jazyk.md) s různými nářečími pro různé postavy a druhy.
+- [Jazyk](Jazyk.md) je často archaický a formální, což přispívá k vytvoření autentického [Fantasy](Fantasy.md) prostředí.
 
 ## Jazykové prvky 
 
-- **Elvština:** Tolkien vytvořil slovník a gramatiku pro elfský jazyk, který se občas objevuje v dialogech postav.
+- **Elvština:** Tolkien vytvořil slovník a gramatiku pro elfský [Jazyk](Jazyk.md), který se občas objevuje v dialogech postav.
 - **Skřetí nářečí:** Skřeti mluví drsným, hrubým jazykem, který má v sobě temný nádech.
 - **Trpasličtina:** Trpaslíci mají svůj vlastní dialekt, který je hrubší a méně uhlazený než elvština.
 

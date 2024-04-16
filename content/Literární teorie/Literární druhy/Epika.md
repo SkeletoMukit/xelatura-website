@@ -22,7 +22,7 @@
 - **Postavy**: Často obsahuje širokou škálu postav, včetně hrdinů, padouchů, vedlejších postav a antihrdinů.
 - **Děj**: Zahrnuje sérii událostí a konfliktů, které tvoří hlavní linii příběhu.
 - **Místo a čas**: Často se odehrává v různých časových obdobích a místech, čímž umožňuje autorům zkoumat různé kulturní a historické kontexty.
-- **Jazyk a styl**: Epická díla často obsahují bohatý jazyk a slovní obraty, které přispívají k vytvoření atmosféry a naladění čtenáře.
+- **[Jazyk](Jazyk.md) a styl**: Epická díla často obsahují bohatý [Jazyk](Jazyk.md) a slovní obraty, které přispívají k vytvoření atmosféry a naladění čtenáře.
 
 ## Význam epiky
 

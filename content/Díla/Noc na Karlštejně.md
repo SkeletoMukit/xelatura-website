@@ -28,7 +28,7 @@
 
 ## Jazyk 
 
-- Formální, archaický jazyk vhodný k historickému dramatu.
+- Formální, archaický [Jazyk](Jazyk.md) vhodný k historickému dramatu.
 - Obsahuje výrazy a fráze charakteristické pro středověkou dobu.
 
 ## Jazykové prvky 

@@ -1,20 +1,16 @@
----
-title: Xelatura
----
+# Xelatura
 
-# Vítejte v Xelatuře
-
-Xelovy poznámky z literatury
+Xelovy poznámky z literatury a jazyku
 
 ## !!! Stále ve vývoji !!!
 
 ## Co je Xelatura?
 
-Xelatura je kolekce poznámek z literatury na úrovni maturitního ročníku střední školy.
+Xelatura je kolekce poznámek z literatury a jazyku, psané v Obsidianu, na úrovni maturitního ročníku střední školy.
 
 ## Co zde najdete?
 
-- [Autory](Autoři.md)
-- [Díla](Díla.md)
-- [Literární historii](Literární%20historie.md)
-- [Literární teorii](Literární%20teorie.md)
+- Autory
+- Díla
+- Literární historii
+- Literární teorii

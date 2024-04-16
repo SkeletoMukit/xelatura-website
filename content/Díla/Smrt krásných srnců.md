@@ -27,7 +27,7 @@
 
 ## Jazyk 
 
-- [[Ota Pavel]] používá jednoduchý a přístupný jazyk, často sarkastický, s výraznou emotivní složkou.
+- [[Ota Pavel]] používá jednoduchý a přístupný [Jazyk](Jazyk.md), často sarkastický, s výraznou emotivní složkou.
 - Dialogy postav jsou autentické a přibližují prostředí vesnického života.
 
 ## Jazykové prvky 

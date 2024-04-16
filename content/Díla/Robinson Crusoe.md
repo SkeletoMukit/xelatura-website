@@ -26,7 +26,7 @@
 
 ## Jazyk 
 
-- **Jazyk:** Angličtina
+- **[Jazyk](Jazyk.md):** Angličtina
 - **Stylistika:** Jednoduchý a přímočarý styl psaní, charakteristický pro realistická díla té doby.
 
 ## Jazykové prvky 

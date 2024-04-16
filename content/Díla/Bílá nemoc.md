@@ -28,7 +28,7 @@
 
 ## Jazyk 
 
-- **Stylistika:** Čapekův typický expresionistický jazyk, plný emocí a dramatičnosti.
+- **Stylistika:** Čapekův typický expresionistický [Jazyk](Jazyk.md), plný emocí a dramatičnosti.
 - **Vypravěč:** Třetí osoba, která popisuje dění z vnější perspektivy.
 
 ## Jazykové prvky 

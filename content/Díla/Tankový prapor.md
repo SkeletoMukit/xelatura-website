@@ -26,7 +26,7 @@
 
 ## Jazyk 
 
-- **Jazyk:** Český jazyk
+- **[Jazyk](Jazyk.md):** Český [Jazyk](Jazyk.md)
 - **Styl:** Realistický s lyrickými prvky
 
 ## Jazykové prvky 

@@ -29,8 +29,8 @@
 
 ## Jazyk 
 
-- **Jazyk:** Formální, často obsahuje symboliku a metafory.
-- **Stylistické prvky:** Odborný jazyk spojený s prací v krematoriu, kontrastující s temnou atmosférou celého příběhu.
+- **[Jazyk](Jazyk.md):** Formální, často obsahuje symboliku a metafory.
+- **Stylistické prvky:** Odborný [Jazyk](Jazyk.md) spojený s prací v krematoriu, kontrastující s temnou atmosférou celého příběhu.
 
 ## Jazykové prvky 
 

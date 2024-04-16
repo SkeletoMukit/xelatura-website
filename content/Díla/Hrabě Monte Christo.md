@@ -27,7 +27,7 @@
 
 ## Jazyk
 
-- Alexandre Dumas používá **živý a barvitý jazyk**, často s **poetickými popisy** a **důrazem na dramatické situace**.
+- Alexandre Dumas používá **živý a barvitý [Jazyk](Jazyk.md)**, často s **poetickými popisy** a **důrazem na dramatické situace**.
 
 ## Jazykové prvky
 

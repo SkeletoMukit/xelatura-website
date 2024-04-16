@@ -26,7 +26,7 @@
 
 ## Jazyk 
 
-- **Jazyk:** Vtipný a sarkastický tón, hovorový jazyk spojený s vypravěčskou impresionistickou technikou
+- **[Jazyk](Jazyk.md):** Vtipný a sarkastický tón, hovorový [Jazyk](Jazyk.md) spojený s vypravěčskou impresionistickou technikou
 
 ## Jazykové prvky 
 
