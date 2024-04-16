@@ -1,3 +1,7 @@
+---
+title: Xelatura
+---
+
 # Xelatura
 
 Xelovy poznámky z literatury a jazyku
