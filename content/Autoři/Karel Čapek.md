@@ -18,10 +18,14 @@
 - Studoval filosofii na Karlově univerzitě v Praze.
 - Začal pracovat jako novinář a brzy se stal významným publicistou.
 - Byl aktivní v kulturní a politické scéně Československa.
+- Nominován na Nobelovu cenu
+- Autor první republiky
+- Demokratický proud
+- Pátečníci
 
 ## Dílo
 
-### R.U.R. (Rossum's Universal Robots) - 1920
+### R.U.R. (Rossumovi univerzální roboti) - 1920
 
 - První český spisovatel, který použil slovo "robot" v této hře.
 - Satirická sci-fi hra, která pojednává o vytvoření humanoidních robotů a jejich dopadu na společnost.
@@ -49,3 +53,9 @@
 ### [[Bílá nemoc]] - 1937
 
 - [[Drama]], které se zaměřuje na etické otázky spojené s vědeckým výzkumem a zneužíváním jeho výsledků.
+
+### Povídky z jedné kapsy
+
+### Povídky z druhé kapsy
+
+### Věc Makropulos

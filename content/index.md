@@ -4,7 +4,7 @@ title: Xelatura
 
 # Xelatura
 
-Xelovy poznámky z literatury a jazyku
+**Xelo**vy poznámky z litera**tury** a jazyku
 
 ## !!! Stále ve vývoji !!!
 

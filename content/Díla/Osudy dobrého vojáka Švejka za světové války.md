@@ -40,6 +40,9 @@
 - **Josef Švejk:** Hlavní postava, zdánlivě naivní a hloupý voják, který však svou naivitou dokáže přežít absurditu války a byrokracie.
 - **Podplukovník Lukáš:** Nadřízený Švejka, často frustrovaný jeho nekonvenčními metodami.
 - **Pannek:** Švejkův spolubojovník a přítel.
+- Paní Mullerová
+- Doktor Grunstein
+- Farář Felzkurát
 
 ## Děj
 
