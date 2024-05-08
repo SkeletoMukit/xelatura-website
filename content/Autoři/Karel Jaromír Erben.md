@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Přirozené příčiny (podezření na otravu, ale není potvrzeno)
 - **Národnost:** Česká
 - **Profese:** Spisovatel, básník, etnograf, právník
-- **Žánr:** Pohádky, lidová poezie
+- **Žánr:** Pohádky, lidová [Poezie](Poezie.md)
 
 ## Život
 
@@ -18,6 +18,6 @@ Karel Jaromír Erben se narodil 7. listopadu 1811 v Miletíně v Čechách. Stud
 
 ## Dílo
 
-Erben je nejznámější především díky své sbírce básní "Kytice", vydané poprvé v roce 1853. Tato sbírka obsahuje balady inspirované lidovou slovesností a folklórem. Jeho básně čerpají z českých lidových tradic, mýtů a pověstí, a jsou proslulé svou temnou atmosférou a symbolikou.
+Erben je nejznámější především díky své sbírce básní "[Kytice](Kytice.md)", vydané poprvé v roce 1853. Tato sbírka obsahuje balady inspirované lidovou slovesností a folklórem. Jeho básně čerpají z českých lidových tradic, mýtů a pověstí, a jsou proslulé svou temnou atmosférou a symbolikou.
 
 Dalším významným dílem je sbírka "České pohádky", která obsahuje lidové pohádky a příběhy z českého folklóru. Erben se stal klíčovou postavou českého romantismu a jeho práce ovlivnila mnoho pozdějších generací spisovatelů.

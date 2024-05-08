@@ -2,13 +2,13 @@
 
 ## Základní informace
 
-- **Autor:** Bohumil Hrabal
+- **Autor:** [Bohumil Hrabal](Bohumil%20Hrabal.md)
 - **Rok vydání:** 1971
 
 ## Literární druh, žánr a směr
 
-- **Literární druh:** Román
-- **Literární žánr:** Experimentální próza, absurdní humor
+- **Literární druh:** [Román](Román.md)
+- **Literární žánr:** Experimentální [Próza](Próza.md), absurdní humor
 - **Literární směr:** Česká literatura 20. století, postmodernismus
 
 ## Téma
@@ -30,7 +30,7 @@
 
 ## Jazykové prvky
 
-- **Jazykové prvky:** Bohatý a expresivní jazyk, s humorem a ironií, často obsahující místní idiomy a nářečí
+- **Jazykové prvky:** Bohatý a expresivní [Jazyk](Jazyk.md), s humorem a ironií, často obsahující místní idiomy a nářečí
 
 ## Postavy
 

@@ -2,13 +2,13 @@
 
 ## Základní informace
 
-- **Autor:** William Styron
+- **Autor:** [William Styron](William%20Styron.md)
 - **Rok vydání:** 1979
 
 ## Literární druh, žánr a směr
 
-- **Literární druh:** Román
-- **Literární žánr:** Psychologický román
+- **Literární druh:** [Román](Román.md)
+- **Literární žánr:** Psychologický [Román](Román.md)
 - **Literární směr:** Americká literatura 20. století, postmodernismus
 
 ## Téma
@@ -30,7 +30,7 @@
 
 ## Jazykové prvky
 
-- **Jazykové prvky:** Přesný a sugestivní jazyk, který zachycuje emocionální hloubku a psychickou složitost hlavní postavy a jejího vnitřního boje
+- **Jazykové prvky:** Přesný a sugestivní [Jazyk](Jazyk.md), který zachycuje emocionální hloubku a psychickou složitost hlavní postavy a jejího vnitřního boje
 
 ## Postavy
 
@@ -38,4 +38,4 @@
 
 ## Děj
 
-Děj románu Sophiina volba sleduje osudy Sophiiny Zawistowské, mladé Polské židovky, která se ocitne v koncentračním táboře Auschwitz-Birkenau během druhé světové války. Po válce se Sophii podaří emigrovat do New Yorku, kde se snaží začít nový život, ale její minulost a traumatické zážitky ji pronásledují a utvářejí její vztahy a rozhodnutí. Příběh Sophie je provázán s vztahem k Nathanovi Landauovi, charizmatickému ale i destruktivnímu muži, a s přátelstvím se Stingem, mladým spisovatelem. Román zkoumá témata viny, oběti, lásky a lidské síly v tváři nejhoršího zla, které lidstvo kdy zažilo.
+Děj románu Sophiina volba sleduje osudy Sophiiny Zawistowské, mladé Polské židovky, která se ocitne v koncentračním táboře Auschwitz-Birkenau během druhé světové války. Po válce se Sophii podaří emigrovat do New Yorku, kde se snaží začít nový život, ale její minulost a traumatické zážitky ji pronásledují a utvářejí její vztahy a rozhodnutí. Příběh Sophie je provázán s vztahem k Nathanovi Landauovi, charizmatickému ale i destruktivnímu muži, a s přátelstvím se Stingem, mladým spisovatelem. [Román](Román.md) zkoumá témata viny, oběti, lásky a lidské síly v tváři nejhoršího zla, které lidstvo kdy zažilo.

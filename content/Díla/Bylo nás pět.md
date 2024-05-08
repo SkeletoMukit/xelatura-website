@@ -2,14 +2,14 @@
 
 ## Základní informace
 
-- **Autor:** Karel Poláček
+- **Autor:** [Karel Poláček](Karel%20Poláček.md)
 - **Rok vydání:** 1936
 
 ## Literární druh, žánr a směr
 
-- **Literární druh:** Román
-- **Literární žánr:** Realistický román
-- **Literární směr:** Česká literatura 20. století, meziválečná próza
+- **Literární druh:** [Román](Román.md)
+- **Literární žánr:** Realistický [Román](Román.md)
+- **Literární směr:** Česká literatura 20. století, meziválečná [Próza](Próza.md)
 
 ## Téma
 

@@ -3,7 +3,7 @@
 
 ## Základní informace
 
-- **Autor:** Karel Jaromír Erben
+- **Autor:** [Karel Jaromír Erben](Karel%20Jaromír%20Erben.md)
 - **Rok vydání:** 1853
 
 ## Literární druh, žánr a směr

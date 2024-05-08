@@ -18,7 +18,7 @@ Jazyk se skládá z **jazykových rovin**, které se dlí na kategorie, přičem
 | Rovina věty                | věta                     |
 | Rovina slova               | slovo                    |
 | Rovina mluvnického významu | předpona, kořen, přípona |
-| Zvuková rovina             | hláska                   |
+| Zvuková rovina             | [Hláska](Hláska.md)                   |
 ## Funkce jazyka
 
 - slouží k dorozumívání mezi lidmi (funkce dorozumívací)

@@ -26,7 +26,7 @@
 
 ### Povídky
 
-- **Povídky malostranské** - Sbírka povídek z prostředí Malé Strany v Praze, vydaná v roce 1877.
+- **[Povídky malostranské](Povídky%20malostranské.md)** - Sbírka povídek z prostředí Malé Strany v Praze, vydaná v roce 1877.
 - **Araby** - Sbírka povídek s exotickou tematikou z cest do zahraničí.
 
 ### Poezie

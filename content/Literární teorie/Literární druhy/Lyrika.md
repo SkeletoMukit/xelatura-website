@@ -38,6 +38,6 @@
 
 ## Současná lyrika
 
-- **Experimentace s formou**: Současní autoři často experimentují s formou a strukturou básní.
+- **Experimentace s formou**: [Současní autoři](Současní%20autoři.md) často experimentují s formou a strukturou básní.
 - **Sociální témata**: Lyrika se často zabývá aktuálními sociálními a politickými otázkami.
 - **Interdisciplinární přístupy**: Lyričtí autoři se často inspirují jinými uměleckými disciplínami, jako je hudba nebo výtvarné umění.

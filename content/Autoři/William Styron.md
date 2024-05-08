@@ -20,6 +20,6 @@ Styronova literární kariéra začala v 50. letech 20. století a brzy se stal 
 
 ## Dílo
 
-Jedním z nejznámějších děl Williama Styrona je román "Sophiina volba" (Sophie's Choice), který byl publikován v roce 1979. Tento román pojednává o životě mladého spisovatele a jeho přátelství s přeživší z koncentračního tábora z druhé světové války. "Sophiina volba" je známá svým dojemným vyprávěním a silnými emocionálními motivy.
+Jedním z nejznámějších děl Williama Styrona je [Román](Román.md) "[Sophiina volba](Sophiina%20volba.md)" (Sophie's Choice), který byl publikován v roce 1979. Tento [Román](Román.md) pojednává o životě mladého spisovatele a jeho přátelství s přeživší z koncentračního tábora z druhé světové války. "[Sophiina volba](Sophiina%20volba.md)" je známá svým dojemným vyprávěním a silnými emocionálními motivy.
 
 Dalšími významnými díly jsou "Přízrak opery" (Lie Down in Darkness), "Konfese Nat Turnera" (The Confessions of Nat Turner) a "Temné místo vnitřního místa" (Darkness Visible), ve kterém Styron popisuje svůj vlastní zápas s depresí. Styronova práce je často spojována s jeho osobními zkušenostmi a zkoumáním temných témat lidského života.

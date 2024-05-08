@@ -18,6 +18,6 @@ Květa Legátová se narodila 9. února 1929 v Brně. Studovala na Filozofické 
 
 ## Dílo
 
-Květa Legátová je známá především svými romány a povídkami, které často kombinují historické události s fiktivními příběhy. Jedním z jejích nejznámějších děl je román "Děvčátko", který vypráví příběh dívky žijící v období druhé světové války a komunistického režimu. Tento román je považován za klasiku české literatury.
+Květa Legátová je známá především svými romány a povídkami, které často kombinují historické události s fiktivními příběhy. Jedním z jejích nejznámějších děl je [Román](Román.md) "Děvčátko", který vypráví příběh dívky žijící v období druhé světové války a komunistického režimu. Tento [Román](Román.md) je považován za klasiku české literatury.
 
-Mezi další významná díla patří například romány "Lízino štěstí", "Zběsilost" nebo "Noc na Karlštejně". Květa Legátová se také věnovala literatuře faktu, kde se zaměřovala na historické a kulturní téma. Její práce je ceněna pro její vypravěčský styl, hloubku postav a schopnost zachytit atmosféru dané doby.
+Mezi další významná díla patří například romány "Lízino štěstí", "Zběsilost" nebo "[Noc na Karlštejně](Noc%20na%20Karlštejně.md)". Květa Legátová se také věnovala literatuře faktu, kde se zaměřovala na historické a kulturní téma. Její práce je ceněna pro její vypravěčský styl, hloubku postav a schopnost zachytit atmosféru dané doby.
