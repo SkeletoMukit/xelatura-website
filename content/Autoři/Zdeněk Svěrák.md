@@ -5,66 +5,55 @@
 - **Jméno:** Zdeněk Svěrák
 - **Datum narození:** 28. března 1936
 - **Místo narození:** Praha, Československo
-- **Datum úmrtí:** *Není k dispozici (k lednu 2022)*
-- **Místo úmrtí:** *Není k dispozici (k lednu 2022)*
-- **Příčina úmrtí:** *Není k dispozici (k lednu 2022)*
+- **Datum úmrtí:** *Není k dispozici (k lednu 2024)*
+- **Místo úmrtí:** *Není k dispozici (k lednu 2024)*
+- **Příčina úmrtí:** *Není k dispozici (k lednu 2024)*
 - **Národnost:** Česká
 - **Profese:** Herec, scenárista, spisovatel
-- **Žánr:** [[Komedie]], [Drama](Drama.md)
+- **Žánr:** [Komedie](Komedie.md), [Drama](Drama.md)
+- **Umělecký směr:** Postmodernismus
 
 ## Život
 
-- Zdeněk Svěrák se narodil 28. března 1936 v Praze.
-- Studoval na DAMU (Akademii múzických umění v Praze) a následně pracoval v Divadle ABC a Divadle Na Fidlovačce.
-- V roce 1966 založil společně s Ladislavem Smoljakem Divadlo Járy Cimrmana, kde působil jako herec a autor.
-- Svěrák se proslavil jako skvělý herec a scenárista, spolupracoval s režisérem Jiřím Menzelem na několika úspěšných filmech.
-- Vedle filmové tvorby je znám také jako spisovatel, jeho knihy mají často humorný, ale i melancholický nádech.
+- Zdeněk Svěrák se narodil 28. března 1936 v Praze. Po absolvování gymnázia studoval na Vysoké škole pedagogické v Praze, kde v roce 1958 dokončil studium oboru český [Jazyk](Jazyk.md) a literatura.
+- Po studiích pracoval jako učitel v severozápadních Čechách, nejprve v Měcholupech a poté v Žatci.
+- Svou pedagogickou kariéru ukončil po čtyřech letech a v roce 1961 začal pracovat v Československém rozhlase, kde se stal jedním z autorů populárního rozhlasového pořadu "Nealkoholická vinárna U Pavouka".
+- V roce 1966 spolu s Ladislavem Smoljakem založil Divadlo Járy Cimrmana, které se stalo fenoménem české kultury. Pro toto divadlo napsal a spolunapsal řadu her, ve kterých také hrál.
+- Svěrák se proslavil také jako filmový scenárista a herec. Spolupracoval s režisérem Jiřím Menzelem a svým synem Janem Svěrákem na několika úspěšných filmech, včetně Oscarem oceněného filmu "Kolja" (1996).
+- Vedle své filmové a divadelní tvorby je Svěrák znám také jako autor písňových textů, pohádek a povídek. Spolupracuje s hudebníkem Jaroslavem Uhlířem na mnoha populárních písních a televizních pořadech.
+- Od roku 1994 je Svěrák aktivním podporovatelem a spolupracovníkem Centra Paraple, které pomáhá lidem s poraněním míchy.
 
 ## Dílo
 
 ### Knižní dílo
 
-#### Krajina s nábytkem
+#### Povídky
+- Sbírka povídek, které zachycují různé aspekty lidského života s humorným i melancholickým nádechem.
 
-- [[Román]], který se odehrává v období socialismu, vypráví příběh o mladém učiteli, který je poslán na venkov.
-- Svěrák zde zachycuje různorodost venkovského života a úskalí socialistické byrokracie.
+#### Nové povídky
+- Pokračování úspěšné sbírky Povídky, obsahující další příběhy plné lidskosti a humoru.
 
-#### Barevná kůže, bílá kůže
-
-- Kniha, která se zabývá tématem setkávání dvou kultur, evropské a africké.
-- Svěrák se zde věnuje otázce předsudků a stereotypů.
+#### Po strništi bos
+- Autobiografická kniha vzpomínek na dětství, která se stala inspirací pro stejnojmenný film.
 
 ### Filmové dílo
 
 #### Vesničko má, středisková
-
-- [[Komedie]] z roku 1985, která je považována za klasiku české kinematografie.
-- Film zachycuje život ve vesnici v období socialismu a humorně komentuje byrokratické absurdity.
+- [Komedie](Komedie.md) z roku 1985, která je považována za klasiku české kinematografie. Film zachycuje život ve vesnici v období socialismu a humorně komentuje byrokratické absurdity.
 
 #### Kolja
-
-- [[Drama]] z roku 1996, které získalo Oscara za nejlepší cizojazyčný film.
-- Svěrák zde exceluje nejen jako scenárista, ale i jako herec ve hlavní roli.
+- [Drama](Drama.md) z roku 1996, které získalo Oscara za nejlepší cizojazyčný film. Svěrák zde exceluje nejen jako scenárista, ale i jako herec ve hlavní roli.
 
 #### Obecná škola
-
-- Další spolupráce s Jiřím Menzelem, [Komedie](Komedie.md) z roku 1991.
-- Film se odehrává v 50. letech 20. století a sleduje příběh učitele na venkovské škole.
+- Další spolupráce s Jiřím Menzelem, [Komedie](Komedie.md) z roku 1991. Film se odehrává v 50. letech 20. století a sleduje příběh učitele na venkovské škole.
 
 ### Divadelní dílo
 
-#### Loupežník
+#### Akt
+- První hra Divadla Járy Cimrmana, ve které Svěrák spolupracoval s Ladislavem Smoljakem. Hra byla uvedena v roce 1967 a zahájila sérii úspěšných cimrmanovských her.
 
-- Divadelní hra, která vznikla ve spolupráci s Ladislavem Smoljakem.
-- Humorně líčí osudy loupežníka Františka Růžičky.
+#### Vyšetřování ztráty třídní knihy
+- Jedna z nejznámějších her Divadla Járy Cimrmana, která se zaměřuje na absurdní a komické situace ve školním prostředí.
 
-#### Jára Cimrman ležící, spící
-
-- Divadelní hra, která přibližuje život a činy fiktivního génia Járy Cimrmana.
-- Svěrák zde exceluje nejen jako herec, ale i jako spoluautor příběhů.
-
-#### [[České nebe]]
-
-- Divadelní hra vytvořená ve spolupráci s Ladislavem Smoljakem.
-- Komediální příběh, který se odehrává v nebi a humoristickým způsobem reflektuje život na Zemi.
-- Hra využívá charakteristický styl humoru spojeného s duem Svěrák a Smoljak.
+#### České nebe
+- Divadelní hra vytvořená ve spolupráci s Ladislavem Smoljakem. Komediální příběh, který se odehrává v nebi a humoristickým způsobem reflektuje život na Zemi. Hra využívá charakteristický styl humoru spojeného s duem Svěrák a Smoljak.

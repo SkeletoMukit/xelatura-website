@@ -14,50 +14,28 @@
 
 ## Život
 
-- Erich Maria Remarque se narodil v Německu v roce 1898.
-- Během první světové války sloužil v německé armádě a byl zraněn.
-- Po válce pracoval jako učitel, novinář a knihovník.
-- Jeho nejslavnějším dílem je [Román](Román.md) "[[Na západní frontě klid]]", který popisuje hrůzy války z pohledu mladého vojáka.
-- Během nacistické éry byla jeho knihám zakázána distribuce a byl pronásledován.
-- Po druhé světové válce se přestěhoval do Švýcarska, kde strávil zbytek svého života.
-- Zemřel v roce 1970 na srdeční selhání ve Švýcarsku.
+Erich Maria Remarque se narodil jako Erich Paul Remark v Osnabrücku v Německu v roce 1898 do rodiny katolického knihaře. V roce 1916, ve věku 18 let, byl odveden do německé císařské armády a sloužil na západní frontě během první světové války. Byl vážně zraněn šrapnelem do levé nohy, pravé paže a krku a zbytek války strávil zotavováním v nemocnici.
+
+Po válce trpěl Remarque hlubokým traumatem, což ho inspirovalo k napsání svého nejznámějšího díla, románu „[Na západní frontě klid](Na%20západní%20frontě%20klid.md)“ (1929). [Román](Román.md), který realisticky popisuje hrůzy války z pohledu mladého vojáka, se stal mezinárodním bestsellerem a byl přeložen do mnoha jazyků.
+
+Po nástupu nacistického režimu v Německu byla Remarqueova díla zakázána a pálena kvůli jeho protiválečným postojům. Remarque se v roce 1939 přestěhoval do Spojených států, kde získal americké občanství, a po druhé světové válce se usadil ve Švýcarsku.
 
 ## Dílo
 
-### [[Na západní frontě klid]]
+**[Na západní frontě klid](Na%20západní%20frontě%20klid.md) (1929)**  
+Jedná se o jeho nejslavnější [Román](Román.md), který popisuje hrůzy první světové války z pohledu mladého německého vojáka Paula Bäumera. [Román](Román.md) zdůrazňuje absurditu války a její dehumanizující vliv na mladé muže a stal se mezinárodním bestsellerem, který byl několikrát zfilmován.
 
-- Jedná se o jeho nejslavnější [Román](Román.md), vydaný v roce 1929.
-- Popisuje hrůzy první světové války z pohledu mladého německého vojáka Paula Bäumera.
-- [[Román]] zdůrazňuje absurditu války a její dehumanizující vliv na mladé muže.
-- Stal se mezinárodním bestsellerem a byl přeložen do mnoha jazyků.
-- Byl zfilmován a získal ocenění.
+**Tři kamarádi (1936)**  
+[Román](Román.md) se zaměřuje na životy tří mladých mužů v poválečném Německu, kteří se snaží najít smysl a stabilitu ve světě plném chaosu a nejistoty.
 
-### Tři kamarádi
+**Cesta zpátky (1931)**  
+Tento [Román](Román.md) sleduje příběhy německých vojáků po návratu z fronty a jejich snahu přizpůsobit se civilnímu životu. Zdůrazňuje nemožnost znovu začít život a trauma z války.
 
-- [[Román]] vydaný v roce 1936.
-- Příběh tří mladých mužů v poválečném Německu.
-- Zdůrazňuje těžkosti a beznaděj poválečného období.
+**Všichni ti zatracení andělé (1946)**  
+[Román](Román.md) popisuje osudy německých uprchlíků během druhé světové války a zdůrazňuje lidské utrpení a ztrátu v důsledku války.
 
-### Cesta zpátky
+**Čas žít a čas umírat (1954)**  
+Příběh mladého německého vojáka, který dezertuje během druhé světové války, se zaměřuje na morální dilema a lidskou odvahu v těžkých časech.
 
-- [[Román]] vydaný v roce 1931.
-- Popisuje zážitky německého vojáka po návratu z první světové války.
-- Zdůrazňuje nemožnost znovu začít život a trauma z války.
-
-### Všichni ti zatracení andělé
-
-- [[Román]] vydaný v roce 1946.
-- Popisuje osudy německých uprchlíků během druhé světové války.
-- Zdůrazňuje lidské utrpení a ztrátu v důsledku války.
-
-### Čas žít a čas umírat
-
-- [[Román]] vydaný v roce 1954.
-- Příběh mladého německého vojáka, který dezertuje během druhé světové války.
-- Zdůrazňuje morální dilema a lidskou odvahu.
-
-### Zimní rok lásky
-
-- [[Román]] vydaný v roce 1970.
-- Příběh lásky a osamění v době poválečné Německa.
-- Zdůrazňuje lidskou touhu po spojení a porozumění.
+**Zimní láska (1970)**  
+Tento [Román](Román.md) zkoumá témata lásky a osamělosti v poválečném Německu a zdůrazňuje lidskou touhu po spojení a porozumění.

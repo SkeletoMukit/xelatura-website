@@ -42,3 +42,6 @@
 ## Děj
 
 Děj se točí kolem mladého dudáka Jeníka, který se zamiluje do Dorotky, dcery místního pivovarníka. Jejich láska je však ohrožena starostou, který má sám zájem o Dorotčino věno a snaží se získat ji pro sebe. Jeník, přestože je pouze dudákem, se rozhodne postavit se starostovi a bojovat o svou lásku. Vypráví se o jeho dobrodružstvích, intrikách a překážkách, které musí překonat, aby dosáhl svého cíle. Nakonec se mu podaří porazit starostu a získat Dorotku, čímž se dokazuje, že i prostý dudák může dosáhnout svého štěstí a lásky.
+
+![](https://www.youtube.com/watch?v=PlpV_TeDagg)
+

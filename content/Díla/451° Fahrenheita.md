@@ -45,4 +45,36 @@
 
 ## Děj
 
-Děj se odehrává ve společnosti, kde jsou knihy zakázány a všechny myšlenky jsou ovládány státem. Guy Montag je hasič, jehož úkolem je pálení knih a potlačování odlišných názorů. Jeho žena Mildred je ztělesněním konformity, zatímco jeho mladá sousedka Clarisse ho inspiruje k otázkám a reflexi. Postupně Guy začíná pochybovat o své roli a smyslu života. Poté, co ho podnítila Clarisse, začíná ukrývat knihy a hledat pravdu o světě kolem sebe. Když je odhalen, musí uprchnout před státní mocí a hledat útočiště u vědeckého profesora Fabera, který mu pomůže pochopit důležitost knih a svobody myšlení. Guy se přidává k odboji a snaží se přinést změnu ve společnosti, která je ovládána strachem a manipulací.
+### Úvod
+
+[Román](Román.md) "451° Fahrenheita" od Raye Bradburyho se odehrává v dystopické budoucnosti, kde jsou knihy zakázány a hasiči mají za úkol je pálit, nikoli hasit požáry. Společnost je kontrolována státem, který potlačuje individuální myšlení a podporuje konformitu. Hlavní postava, Guy Montag, je hasič, který začíná pochybovat o své práci a společnosti, ve které žije.
+
+### Začátek
+
+Montag začíná jako oddaný hasič, který si užívá pálení knih. Jeho pohled na svět se začíná měnit poté, co se setká s mladou, svobodomyslnou sousedkou Clarisse McClellan, která ho inspiruje k přemýšlení o světě a jeho roli v něm. Clarisse je jiná než ostatní – je zvídavá a nezajímají ji povrchní zábavy, což Montaga zaujme a vede k tomu, že začne pochybovat o smyslu své práce. Clarisse pokládá Montagovi otázky, které ho nutí přemýšlet o jeho štěstí, lásce a smyslu života.
+
+### První třetina
+
+Montag postupně zjišťuje, že jeho život je prázdný a bez významu. Jeho manželka Mildred je závislá na televizi a tabletách na spaní, což odráží celkovou společenskou apatii a odpojení od reality. Mildred tráví většinu svého času sledováním interaktivních televizních programů na obřích obrazovkách, které zaplňují jejich obývací pokoj. Mildred je typickým produktem této dystopické společnosti – je bezmyšlenkovitě oddaná konzumu a technologiím, což kontrastuje s Montagem, který začíná hledat hlubší smysl života.
+
+Montag se začíná tajně zajímat o knihy a začne je sbírat a číst. Jeho zájem o knihy je podnícen Clarissinými otázkami a její tragickou smrtí, která ho hluboce zasáhne. Montag se setkává s bývalým profesorem Faberem, který mu pomáhá pochopit význam knih a nabízí mu radu, jak se postavit proti systému.
+
+### Polovina
+
+Faber vysvětluje Montagovi, že knihy jsou důležité, protože poskytují kvalitní informace, čas na jejich zpracování a možnost jednat podle získaných poznatků. Montag si uvědomuje, že jeho život a celá společnost jsou prázdné a povrchní. Faber mu také dává speciální sluchátko, pomocí kterého mohou zůstat v kontaktu a Faber může Montaga vést a radit mu.
+
+Montag se rozhodne vzepřít systému a začíná šířit myšlenky z knih mezi ostatními lidmi. Přestože se cítí provinile za porušení zákona, uvědomuje si, že svět, ve kterém žije, je zkažený a potřebuje změnu.
+
+### Třetí třetina
+
+Montagův nadřízený, kapitán Beatty, zjistí jeho tajemství a konfrontuje ho. Beatty je paradoxní postavou – i přes své hluboké znalosti literatury pevně věří v cenzuru a ničení knih. Beatty se snaží Montaga přimět k návratu k poslušnosti, ale jeho snahy jsou marné. Montag, zahnaný do kouta, nakonec Beattyho zabije plamenometem, což je symbolické vzhledem k jejich profesi. Montag se stává uprchlíkem a prchá před mechanickým psem a dalšími hasiči.
+
+Během útěku Montag nachází útočiště u skupiny intelektuálů, vedených mužem jménem Granger. Tito lidé se rozhodli uchovat knihy v paměti, aby jednou mohli obnovit společnost po jejím zničení. Granger a jeho skupina představují naději na znovuzrození kultury a intelektu, které byly zničeny totalitním režimem.
+
+### Konec
+
+Město je nakonec zničeno bombovým útokem, což symbolizuje konec starého, represivního režimu. Montag a jeho noví spojenci plánují znovu vybudovat svět, kde budou knihy a kritické myšlení opět důležité. Montag si uvědomuje, že jeho cesta byla teprve začátkem a že je třeba pokračovat v boji za svobodu a pravdu.
+
+### Závěr
+
+„451° Fahrenheita“ je silným varováním před nebezpečím cenzury, ztráty svobody myšlení a přehnané závislosti na technologiích. Bradbury zdůrazňuje důležitost knih, individuality a kritického myšlení v boji proti totalitním režimům. Montagův příběh je univerzální a stále aktuální, protože upozorňuje na nebezpečí, která hrozí, když se společnost vzdá svých základních hodnot a práv.

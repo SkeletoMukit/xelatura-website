@@ -55,3 +55,7 @@ Jeho syn Cléante a dcera Elise jsou oba zamilovaní, ale jejich lásky jsou ohr
 Děj se komplikuje, když Harpagon prohlásí, že si chce vzít Marianninu ruku, která je však již zaslíbena Cléantovi. Situace se více zkomplikuje, když Harpagon ztratí svůj milovaný peněženku, což vyvolává paniku v celém domě.
 
 Na konci hry jsou všechny problémy vyřešeny a Harpagon je nucen změnit své chování poté, co se dozví, že jeho ztracená peněženka byla nalezena a vrácena mu. Hra končí usmiřujícím a komickým vyústěním, kdy Harpagon slibuje, že se změní, a celá rodina se připravuje na svatbu Cléanta a Marianne.
+
+## Pomocné zdroje
+
+![Na potítku - Lakomec](https://www.youtube.com/watch?v=YnEfTjxKnRU)
